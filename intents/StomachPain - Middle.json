@@ -1,0 +1,41 @@
+{
+  "id": "57dc8d12-37be-4084-8705-b7ba38aca59c",
+  "parentId": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "rootParentId": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "name": "StomachPain - Middle",
+  "auto": true,
+  "contexts": [
+    "StomachPain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StomachPain.StomachPain-custom",
+      "affectedContexts": [
+        {
+          "name": "StomachPain-Middle-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

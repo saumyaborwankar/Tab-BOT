@@ -1,0 +1,59 @@
+{
+  "id": "1c80d5e2-e44d-429d-a461-4b6d1a39daa5",
+  "parentId": "76a3a941-4ea3-4fe5-8d3a-388c18f0ffdd",
+  "rootParentId": "90b78943-f9f4-4874-9e19-2590110c82ea",
+  "name": "Default Welcome Intent - custom Name - Email",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-customName-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.DefaultWelcomeIntent-customName-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "581c77f7-80e4-4725-9135-cdd0f857aca6",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you please enter a valid email address, #DefaultWelcomeIntent-customName-followup.namelist?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks #DefaultWelcomeIntent-customName-followup.namelist, for sharing your email address we will soon contact you till then what can I do for you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

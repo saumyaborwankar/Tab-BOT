@@ -1,0 +1,63 @@
+[
+  {
+    "id": "2b8e46bd-24a0-4f07-a3cb-47670d37a35b",
+    "data": [
+      {
+        "text": "how will the ",
+        "userDefined": false
+      },
+      {
+        "text": "drone deliver to the exact location",
+        "meta": "@DroneAccuracy",
+        "alias": "DroneAccuracy",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8653d44-a5ac-4f71-af2f-7ef57aa3d1eb",
+    "data": [
+      {
+        "text": "Accuracy of the drone",
+        "meta": "@DroneAccuracy",
+        "alias": "DroneAccuracy",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f707da3a-f251-4f15-9eb3-3fc74dbd0656",
+    "data": [
+      {
+        "text": "What is the accuracy of the drone  that it will ",
+        "userDefined": false
+      },
+      {
+        "text": "deliver the parcel at the right place",
+        "meta": "@DroneAccuracy",
+        "alias": "DroneAccuracy",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "055a68d3-1cf6-4129-b289-df8d5251a064",
+  "parentId": "2afb6447-9a92-4e4d-882d-193106c42ae6",
+  "rootParentId": "2afb6447-9a92-4e4d-882d-193106c42ae6",
+  "name": "MusclePainJointPain - yes",
+  "auto": true,
+  "contexts": [
+    "MusclePainJointPain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MusclePainJointPain.MusclePainJointPain-yes",
+      "affectedContexts": [
+        {
+          "name": "MusclePainJointPain-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

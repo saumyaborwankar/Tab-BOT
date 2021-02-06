@@ -1,0 +1,50 @@
+{
+  "id": "51ace5b2-4852-4ced-85d2-54510478e81d",
+  "name": "Nimesulide Intro",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f9bbb660-41de-4056-adb3-c4468c40d85b",
+          "name": "Paracetamol_Nimesulide",
+          "required": false,
+          "dataType": "@Paracetamol_Nimesulide",
+          "value": "$Paracetamol_Nimesulide",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Nimesulide is a nonsteroidal anti-inflammatory drug (NSAID) with pain medication and fever reducing properties. \nIts approved indications are the treatment of acute pain, the symptomatic treatment of osteoarthritis, and primary dysmenorrhoea in adolescents and adults above 12 years old. \nSide effects may include liver problems."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

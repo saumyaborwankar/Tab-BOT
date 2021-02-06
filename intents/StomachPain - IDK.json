@@ -1,0 +1,39 @@
+{
+  "id": "ce15d7ef-fea6-4e16-bd13-c4c544469d7c",
+  "parentId": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "rootParentId": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "name": "StomachPain - IDK",
+  "auto": true,
+  "contexts": [
+    "StomachPain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StomachPain.StomachPain-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please consult the doctor."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

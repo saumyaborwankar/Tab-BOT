@@ -1,0 +1,82 @@
+{
+  "id": "18e0dd3c-5484-40bc-94d7-3c476402b989",
+  "parentId": "40c88c23-187b-4138-aaa3-7c5b0b899e0b",
+  "rootParentId": "40c88c23-187b-4138-aaa3-7c5b0b899e0b",
+  "name": "LAMOCOLD - custom Caution",
+  "auto": true,
+  "contexts": [
+    "LAMOCOLD-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LAMOCOLD.LAMOCOLD-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eff7b1a7-1253-409b-bbac-368f16134791",
+          "name": "Lamocold",
+          "required": false,
+          "dataType": "@Lamocold",
+          "value": "$Lamocold",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ce133a8e-3885-447b-af1f-e362366a5215",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4b33380d-c0c7-457a-8af3-423ac5d01d72",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Don\u0027t take any double dose at a time if missed the previous dose.\nCommon possible Side Effects:\n\n-\u003e Nausea\n-\u003e Vomiting\n-\u003e Headache"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

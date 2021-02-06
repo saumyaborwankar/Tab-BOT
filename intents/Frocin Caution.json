@@ -1,0 +1,92 @@
+{
+  "id": "e42c3078-5143-44c5-83c0-a8cdf4dfbbc6",
+  "name": "Frocin Caution",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "be0aba1d-cf26-485c-af3b-4dfaca34bfd6",
+          "name": "Frocin",
+          "required": false,
+          "dataType": "@Frocin",
+          "value": "$Frocin",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "403ab923-f7c2-4787-be4c-fc75af5ee40d",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f4e989ef-3681-4b0c-9a69-f29435f36338",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "16ac3acb-7c97-4fc6-b018-73fed874b64d",
+          "name": "Care",
+          "required": false,
+          "dataType": "@Care",
+          "value": "$Care",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Taking more than daily dose of Paracetamol may cause serious liver damage or allergic reactions (e.g. swelling of the face, mouth and throat, difficulty in breathing, itching or rash."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

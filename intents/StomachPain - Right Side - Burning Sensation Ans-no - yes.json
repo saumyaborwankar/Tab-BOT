@@ -1,0 +1,41 @@
+{
+  "id": "4a3de874-517f-49d4-b31f-33855e1a0587",
+  "parentId": "232f5852-a49a-4874-a94e-4c28f1633cce",
+  "rootParentId": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "name": "StomachPain - Right Side - Burning Sensation Ans-no - yes",
+  "auto": true,
+  "contexts": [
+    "StomachPain-RightSide-BurningSensationAns-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StomachPain.StomachPain-custom-2.StomachPain-RightSide-no.StomachPain-RightSide-BurningSensationAns-no-yes",
+      "affectedContexts": [
+        {
+          "name": "StomachPain-RightSide-BurningSensationAns-no-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

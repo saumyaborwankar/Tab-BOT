@@ -1,0 +1,79 @@
+[
+  {
+    "id": "dd72f7c2-27ff-426c-a02c-e657e61b02d4",
+    "data": [
+      {
+        "text": "am I eligible for a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f5c26b5-154d-445f-ba5b-6e5cc4539ada",
+    "data": [
+      {
+        "text": "in how many days can I get my refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c1effab-fc8e-43d8-90f3-560fd977c521",
+    "data": [
+      {
+        "text": "what is your refund policy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49b8a9d3-131b-471e-ad9c-6f460dcda36f",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "Refund",
+        "meta": "@refund",
+        "alias": "refund",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c36b493-b419-487d-a5f8-9f81532c99a1",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "refund",
+        "meta": "@refund",
+        "alias": "refund",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

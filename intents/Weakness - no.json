@@ -1,0 +1,54 @@
+{
+  "id": "71f63b41-58f8-42e0-8dcd-9bbccd3b254d",
+  "parentId": "f121bfa9-5f6f-4c77-879a-6d84d0a6cf86",
+  "rootParentId": "f121bfa9-5f6f-4c77-879a-6d84d0a6cf86",
+  "name": "Weakness - no",
+  "auto": true,
+  "contexts": [
+    "Wickness-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Wickness.Wickness-no",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d085f0bd-f5f3-4349-8090-63038cc3ffd0",
+          "name": "Weakness",
+          "required": false,
+          "dataType": "@Weakness",
+          "value": "$Weakness",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Don\u0027t worry and take rest for some time. Drink lemon juice or take some sugar so that you can get some energy"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

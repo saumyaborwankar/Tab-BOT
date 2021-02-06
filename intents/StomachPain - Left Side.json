@@ -1,0 +1,36 @@
+{
+  "id": "c4c470dc-882c-406b-83b1-b93788d37f75",
+  "parentId": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "rootParentId": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "name": "StomachPain - Left Side",
+  "auto": true,
+  "contexts": [
+    "StomachPain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StomachPain.StomachPain-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "2587c715-c9c2-4c1e-bc4f-2e38f08c70fe",
+  "parentId": "c14893a2-731b-41d6-9c39-e2624e8c7656",
+  "rootParentId": "c14893a2-731b-41d6-9c39-e2624e8c7656",
+  "name": "Norflox - NorfloxSideE\u0026Pre",
+  "auto": true,
+  "contexts": [
+    "Norflox-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Norflox.Norflox-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6c3c0aa6-fee0-4317-8e90-132bef9f5772",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1f056884-4138-4f3b-81d0-29f6d6d93706",
+          "name": "Norfloxacin",
+          "required": false,
+          "dataType": "@Norfloxacin",
+          "value": "$Norfloxacin",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

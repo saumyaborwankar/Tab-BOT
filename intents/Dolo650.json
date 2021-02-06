@@ -1,0 +1,50 @@
+{
+  "id": "551f46d6-9505-413c-ad40-4003a584bb6f",
+  "name": "Dolo650",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7dfa6fd0-435a-493a-bdb3-0e742148932e",
+          "name": "Dolo650",
+          "required": false,
+          "dataType": "@Dolo650",
+          "value": "$Dolo650",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dolo 650 Tablet should be taken in the dose and duration as advised by your doctor. It may be taken with or without food. Take it with food if stomach upset occurs. Inform your doctor if you are also taking other medications containing paracetamol to avoid overdose. Please consult your doctor in case your pain or fever does not subside. Dolo 650 Tablet is to be taken with food."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

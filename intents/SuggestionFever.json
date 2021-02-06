@@ -1,0 +1,52 @@
+{
+  "id": "9d75a893-267d-4331-8618-212effa746d4",
+  "name": "SuggestionFever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "SuggestionFever-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "fca4dc6a-2ebf-4068-9a9b-4ff4b05089af",
+          "name": "Fever",
+          "required": false,
+          "dataType": "@Fever",
+          "value": "$Fever",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

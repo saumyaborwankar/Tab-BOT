@@ -1,0 +1,158 @@
+[
+  {
+    "id": "8fae0f3e-115b-4496-9a98-1b5b683946f3",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4474781-d8e2-431e-918a-7beb39002941",
+    "data": [
+      {
+        "text": "Which medicine shall I take if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da0475ba-f2dc-4e6d-8057-856a00a263ec",
+    "data": [
+      {
+        "text": "What to do if I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6aa283c-cd68-497f-be4f-4cb97cb93148",
+    "data": [
+      {
+        "text": "Suggest me medicines as I have ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41a3d4be-2df3-450d-8ada-78189389cb34",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      },
+      {
+        "text": " please suggest me medicines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef673834-ea6d-4868-b0a4-c301dd109ed0",
+    "data": [
+      {
+        "text": "Medicines for ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "023dd0b7-b2b7-40b0-a944-9a2df9bd4dc2",
+    "data": [
+      {
+        "text": "Fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      },
+      {
+        "text": " suggestion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6bdd080-af92-4841-88b3-4dfcf3cb5a88",
+    "data": [
+      {
+        "text": "Suggestion for ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": "1eebd15b-ff0f-4274-b33e-f4b2e51248ef",
+  "parentId": "ffe40164-249b-4b50-92a4-fd903ccc5c22",
+  "rootParentId": "ffe40164-249b-4b50-92a4-fd903ccc5c22",
+  "name": "Cyclotab - custom Dosage",
+  "auto": true,
+  "contexts": [
+    "Cyclotab-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cyclotab.Cyclotab-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "66961b07-ccac-4b0d-a4c3-a237f5f0bbba",
+          "name": "Cyclotab",
+          "required": false,
+          "dataType": "@Cyclotab",
+          "value": "$Cyclotab",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

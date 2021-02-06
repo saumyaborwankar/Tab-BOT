@@ -1,0 +1,50 @@
+{
+  "id": "7a8b35a4-91d3-4fe5-ac6f-175766ad3368",
+  "name": "Phenylephrine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cd511e3c-eac6-456b-bbb0-b7d2ff10891b",
+          "name": "Phenylephrine",
+          "required": false,
+          "dataType": "@Phenylephrine",
+          "value": "$Phenylephrine",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This medication is used to increase blood pressure and topically as a nasal decongestant. It is also used in the eye to dilate the pupil or to constrict superficial blood vessels in eye allergy. It works by reducing swelling of the blood vessels in the nasal passages."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "b900e24c-bafd-4c32-abee-8338d2a0f42e",
+  "parentId": "5050af8f-9a48-492e-92fd-31f070aa4d03",
+  "rootParentId": "5050af8f-9a48-492e-92fd-31f070aa4d03",
+  "name": "Caution - custom Norflox",
+  "auto": true,
+  "contexts": [
+    "Caution-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Caution.Caution-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a721a206-ceb6-4665-bc6e-a43c4503b709",
+          "name": "Norfloxacin",
+          "required": false,
+          "dataType": "@Norfloxacin",
+          "value": "$Norfloxacin",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "41082741-c477-4fc6-89c6-d523cc9fda78",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7c3bc7ac-7692-4494-951b-ffaf1233a618",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

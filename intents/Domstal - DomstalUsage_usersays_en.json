@@ -1,0 +1,47 @@
+[
+  {
+    "id": "95ff53b5-5691-4adb-806a-92e56e2b648a",
+    "data": [
+      {
+        "text": "Uses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "795aa03a-d2f8-4b21-bc67-4de4e6ffec84",
+    "data": [
+      {
+        "text": "Uses of ",
+        "userDefined": false
+      },
+      {
+        "text": "DOMSTAL",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "263ffb46-e0a2-422d-9c71-232512d5558a",
+    "data": [
+      {
+        "text": "Usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c759981c-4884-46fe-b2f0-b056135581ad",
+    "data": [
+      {
+        "text": "TAB ",
+        "userDefined": false
+      },
+      {
+        "text": "DOMSTAL",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c79e9a1-55cd-46fc-8bbc-08f1e908922f",
+    "data": [
+      {
+        "text": "DOMSTAL",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      },
+      {
+        "text": " TABLET",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c277b8a1-6ae1-4faa-a735-8f622cbdb8fb",
+    "data": [
+      {
+        "text": "DOMSTAL",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10 MG",
+        "meta": "@sys.unit-weight",
+        "alias": "unit-weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "610073e9-801f-48b1-9bf0-b7d5dda9ac4f",
+    "data": [
+      {
+        "text": "Domstal",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "a91c6df7-2e15-4157-ac5f-aec0e2007f2e",
+    "data": [
+      {
+        "text": "care",
+        "meta": "@Care",
+        "alias": "Care",
+        "userDefined": false
+      },
+      {
+        "text": " while taking ",
+        "userDefined": false
+      },
+      {
+        "text": "frocin 500",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc51753b-00e6-4f8e-9116-d541beee2f02",
+    "data": [
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "frocin 500",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1d7e532-10ff-46ea-9316-98e1ced6ac69",
+    "data": [
+      {
+        "text": "caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "frocin 500",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5409b27-2a0c-45a8-a385-3cd4dfb6834a",
+    "data": [
+      {
+        "text": "caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      },
+      {
+        "text": " while taking ",
+        "userDefined": false
+      },
+      {
+        "text": "frocin 500",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "7325209d-e212-4cde-967b-b013341de551",
+    "data": [
+      {
+        "text": "I have vomiting as well as loose motion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b10a598-9776-4660-a4b6-2c5ded82d9b6",
+    "data": [
+      {
+        "text": "Both ",
+        "userDefined": false
+      },
+      {
+        "text": "Vomiting",
+        "meta": "@Vomiting",
+        "alias": "Vomiting",
+        "userDefined": false
+      },
+      {
+        "text": " and Loose Motion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36ef92b1-9a4c-4e6f-9ec3-63406426d850",
+    "data": [
+      {
+        "text": "I have both ",
+        "userDefined": false
+      },
+      {
+        "text": "Vomiting",
+        "meta": "@Vomiting",
+        "alias": "Vomiting",
+        "userDefined": false
+      },
+      {
+        "text": " and Loose Motion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

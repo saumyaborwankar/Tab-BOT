@@ -1,0 +1,36 @@
+{
+  "id": "62532c96-6584-4cec-9878-d5e9da4f3373",
+  "parentId": "952f9ac2-d713-419f-909f-4d794776147e",
+  "rootParentId": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "name": "Headache - With Fever - NNNDVC",
+  "auto": true,
+  "contexts": [
+    "Headache-WithFever-NNDV-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Headache.Headache-custom.Headache-WithFever-no.Headache-WithFever-ND-no.Headache-WithFever-NNDV-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

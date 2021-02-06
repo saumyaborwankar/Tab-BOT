@@ -1,0 +1,92 @@
+{
+  "id": "cd743a36-fe1d-4b1f-bd0a-c8bc74981e7d",
+  "name": "Caution Nipa Plus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b25614ca-ddeb-4914-9636-1b3d080f5206",
+          "name": "NipaPlus",
+          "required": false,
+          "dataType": "@NipaPlus",
+          "value": "$NipaPlus",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f64c3fc8-9142-412a-8fae-a2c378237790",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3c15f4cd-42c9-4f4c-a4eb-278a496d02cf",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f05e7a8a-aff1-43ca-9d16-47a9f83f2f12",
+          "name": "Care",
+          "required": false,
+          "dataType": "@Care",
+          "value": "$Care",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Patients with heart and kidney diseases should avoid medicine.\nSweating profusely, Nausea, Gas, Blisters on skin are the side effects of Nipa Plus"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

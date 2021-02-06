@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ccd696f0-0519-46bd-8dfe-50b0adbd1ea2",
+    "data": [
+      {
+        "text": "Can you tell me the ",
+        "userDefined": false
+      },
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": true
+      },
+      {
+        "text": " of Paracetamol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

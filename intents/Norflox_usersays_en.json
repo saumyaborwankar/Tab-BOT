@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ad558197-8ca5-4928-b770-7c652abf97e8",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Norflox",
+        "meta": "@Norfloxacin",
+        "alias": "Norfloxacin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4158931c-5d3a-469d-b27c-8337c6f4281d",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Norfloxacin",
+        "meta": "@Norfloxacin",
+        "alias": "Norfloxacin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef8045d8-0d80-49bb-be09-144cc5fe7423",
+    "data": [
+      {
+        "text": "Norfloxacin",
+        "meta": "@Norfloxacin",
+        "alias": "Norfloxacin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3ea99d1-d438-4411-8cbd-22c58df988e0",
+    "data": [
+      {
+        "text": "Norflox",
+        "meta": "@Norfloxacin",
+        "alias": "Norfloxacin",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

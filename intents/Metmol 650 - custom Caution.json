@@ -1,0 +1,54 @@
+{
+  "id": "e8c4d226-8e0e-4d86-b145-69f120e7cd0e",
+  "parentId": "48109676-3f5e-4cbf-b50e-10ce9b55d2d0",
+  "rootParentId": "48109676-3f5e-4cbf-b50e-10ce9b55d2d0",
+  "name": "Metmol 650 - custom Caution",
+  "auto": true,
+  "contexts": [
+    "Metmol650-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Metmol650.Metmol650-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "53b7df2e-8fed-4e82-bec5-4d8da893b9e1",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Taking more than daily dose of Paracetamol may cause serious liver damage or allergic reactions (e.g. swelling of the face, mouth and throat, difficulty in breathing, itching or rash."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

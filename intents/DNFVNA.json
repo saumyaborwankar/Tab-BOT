@@ -1,0 +1,36 @@
+{
+  "id": "da886d9c-57ba-4b71-b764-a569b4d4964d",
+  "parentId": "4fcb7128-ad3c-41db-8915-42beaab93772",
+  "rootParentId": "b6ffa4bc-63fe-4353-a053-0e6be33f6b11",
+  "name": "DNFVNA",
+  "auto": true,
+  "contexts": [
+    "DiarrheaNF-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Diarrhea.Diarrhea-no.DiarrheaNF-yes.DiarrheaNF-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

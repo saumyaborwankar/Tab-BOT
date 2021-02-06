@@ -1,0 +1,50 @@
+{
+  "id": "98afcf08-1d6a-4970-9e6e-59a0151b0c98",
+  "name": "Capacity of Parcel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "36b835d6-28a3-4289-87fd-8681a33d091a",
+          "name": "Dosagecapacity",
+          "required": false,
+          "dataType": "@Dosagecapacity",
+          "value": "$Dosagecapacity",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The system can deliver the dosage of one week in one parcel. And can contain maximum 140 tablets in a parcel."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

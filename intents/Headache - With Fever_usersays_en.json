@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ae792061-7b76-4b32-8ddd-80c80136ce5b",
+    "data": [
+      {
+        "text": "Fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      },
+      {
+        "text": " with head ",
+        "userDefined": false
+      },
+      {
+        "text": "ache",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fc1465e-3a06-4987-8a61-c9916e9569f0",
+    "data": [
+      {
+        "text": "Headache",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "id": "951615a9-8b41-416a-8678-132eea49addc",
+  "name": "Nipa Plus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "NipaPlus-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "270483ea-426a-48b9-9af3-06e3af234ea0",
+          "name": "Paracetamol_Nimesulide",
+          "required": false,
+          "dataType": "@Paracetamol_Nimesulide",
+          "value": "$Paracetamol_Nimesulide",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "37de8f9d-819e-4642-9f89-2733a4207016",
+          "name": "NipaPlus",
+          "required": false,
+          "dataType": "@NipaPlus",
+          "value": "$NipaPlus",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

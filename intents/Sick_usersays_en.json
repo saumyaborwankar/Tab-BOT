@@ -1,0 +1,21 @@
+[
+  {
+    "id": "67ed0dfb-fefc-4373-be15-62e7ed6aa86c",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "Sick",
+        "meta": "@Sick",
+        "alias": "Sick",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

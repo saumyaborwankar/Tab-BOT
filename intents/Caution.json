@@ -1,0 +1,55 @@
+{
+  "id": "5050af8f-9a48-492e-92fd-31f070aa4d03",
+  "name": "Caution",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Caution-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a668a94b-f185-4e51-b01a-0b33171480ed",
+          "name": "CAUCARSID",
+          "required": false,
+          "dataType": "@CAUCARSID",
+          "value": "$CAUCARSID",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Whose $CAUCARSID?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

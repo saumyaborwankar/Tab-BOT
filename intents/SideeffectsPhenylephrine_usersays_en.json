@@ -1,0 +1,77 @@
+[
+  {
+    "id": "0ddc1586-8b1a-4b97-92df-d2695d35d2c2",
+    "data": [
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " of  ",
+        "userDefined": false
+      },
+      {
+        "text": "Phenylephrine",
+        "meta": "@Phenylephrine",
+        "alias": "Phenylephrine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcd67004-a652-4b17-b18b-702e8d2523dc",
+    "data": [
+      {
+        "text": "caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": false
+      },
+      {
+        "text": " of  ",
+        "userDefined": false
+      },
+      {
+        "text": "Phenylephrine",
+        "meta": "@Phenylephrine",
+        "alias": "Phenylephrine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2dcb6a2-d57f-43d7-a8f1-188bae8eb380",
+    "data": [
+      {
+        "text": "care",
+        "meta": "@Care",
+        "alias": "Care",
+        "userDefined": true
+      },
+      {
+        "text": " of  ",
+        "userDefined": false
+      },
+      {
+        "text": "Phenylephrine",
+        "meta": "@Phenylephrine",
+        "alias": "Phenylephrine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

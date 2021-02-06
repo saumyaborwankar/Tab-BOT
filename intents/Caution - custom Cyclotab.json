@@ -1,0 +1,56 @@
+{
+  "id": "33d044d8-3e7a-48f1-8f0f-0a8efcb2c688",
+  "parentId": "5050af8f-9a48-492e-92fd-31f070aa4d03",
+  "rootParentId": "5050af8f-9a48-492e-92fd-31f070aa4d03",
+  "name": "Caution - custom Cyclotab",
+  "auto": true,
+  "contexts": [
+    "Caution-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Caution.Caution-custom",
+      "affectedContexts": [
+        {
+          "name": "Caution-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "88c49a4a-8946-4bd0-9e65-b89b160e3c91",
+          "name": "Cyclotab",
+          "required": false,
+          "dataType": "@Cyclotab",
+          "value": "$Cyclotab",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

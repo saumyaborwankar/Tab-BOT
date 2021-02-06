@@ -1,0 +1,66 @@
+{
+  "id": "438872bb-cb3f-40c2-8d6f-a36af558d4c9",
+  "name": "Domstal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Domstal-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "26624e25-6dfb-4992-b2bf-44f375052bf6",
+          "name": "unit-weight",
+          "required": false,
+          "dataType": "@sys.unit-weight",
+          "value": "$unit-weight",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b6828e89-126c-41ad-bd3d-5b5ca9fcfcbf",
+          "name": "DOMSTAL",
+          "required": false,
+          "dataType": "@DOMSTAL",
+          "value": "$DOMSTAL",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

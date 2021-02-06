@@ -1,0 +1,39 @@
+{
+  "id": "f8486198-999b-4b47-b66e-733cae833058",
+  "parentId": "2afb6447-9a92-4e4d-882d-193106c42ae6",
+  "rootParentId": "2afb6447-9a92-4e4d-882d-193106c42ae6",
+  "name": "MusclePainJointPain - no",
+  "auto": true,
+  "contexts": [
+    "MusclePainJointPain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MusclePainJointPain.MusclePainJointPain-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Try these measures to relieve the pain:\n1) Rest the affected area of the body\n2) Take an over-the-counter pain reliever, such as ibuprofen (Advil)\n3) Apply ice to the affected area to help relieve pain and reduce inflammation\nAlso consult the doctor"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

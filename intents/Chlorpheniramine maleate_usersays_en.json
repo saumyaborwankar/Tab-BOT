@@ -1,0 +1,155 @@
+[
+  {
+    "id": "f6890913-ef97-4deb-b2ba-0a5dc6b8b99a",
+    "data": [
+      {
+        "text": "Chlorpheniramine maleate",
+        "meta": "@ChlorpheniramineMaleate",
+        "alias": "ChlorpheniramineMaleate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5430bae-2be3-4780-b12c-4cc43b6e7935",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Chlorpheniramine maleate",
+        "meta": "@ChlorpheniramineMaleate",
+        "alias": "ChlorpheniramineMaleate",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "974a8e20-a4b8-4a8c-a270-b1e805c1a6bb",
+    "data": [
+      {
+        "text": "Care",
+        "meta": "@Care",
+        "alias": "Care",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Chlorpheniramine maleate",
+        "meta": "@ChlorpheniramineMaleate",
+        "alias": "ChlorpheniramineMaleate",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cc6e482-e2b5-4260-a6ab-9a5c8be39500",
+    "data": [
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " of Chlorpheniramine maleate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "999eb12a-877f-48b7-89ab-53f9c9fd9de9",
+    "data": [
+      {
+        "text": "for what ",
+        "userDefined": false
+      },
+      {
+        "text": "Chlorpheniramine maleate",
+        "meta": "@ChlorpheniramineMaleate",
+        "alias": "ChlorpheniramineMaleate",
+        "userDefined": true
+      },
+      {
+        "text": " is used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd80d2b1-1baa-4234-b61b-9aeb874812b7",
+    "data": [
+      {
+        "text": "Where ",
+        "userDefined": false
+      },
+      {
+        "text": "Chlorpheniramine maleate",
+        "meta": "@ChlorpheniramineMaleate",
+        "alias": "ChlorpheniramineMaleate",
+        "userDefined": true
+      },
+      {
+        "text": " is used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9dbe9c9-05d3-4237-ab69-587730ba5be1",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Chlorpheniramine maleate",
+        "meta": "@ChlorpheniramineMaleate",
+        "alias": "ChlorpheniramineMaleate",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

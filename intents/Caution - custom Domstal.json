@@ -1,0 +1,65 @@
+{
+  "id": "eff18fed-19c7-4ab4-bdcb-91ea230879e7",
+  "parentId": "5050af8f-9a48-492e-92fd-31f070aa4d03",
+  "rootParentId": "5050af8f-9a48-492e-92fd-31f070aa4d03",
+  "name": "Caution - custom Domstal",
+  "auto": true,
+  "contexts": [
+    "Caution-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Caution.Caution-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1333ba7a-00ef-426f-a9e8-38ab13c288ac",
+          "name": "DOMSTAL",
+          "required": false,
+          "dataType": "@DOMSTAL",
+          "value": "$DOMSTAL",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1f68a486-9a25-4a03-a419-4b7305800766",
+          "name": "unit-weight",
+          "required": false,
+          "dataType": "@sys.unit-weight",
+          "value": "$unit-weight",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

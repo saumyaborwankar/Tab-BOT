@@ -1,0 +1,67 @@
+[
+  {
+    "id": "58a3754f-d36e-4339-9c39-de16d3c805d8",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Lamocold",
+        "meta": "@Lamocold",
+        "alias": "Lamocold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86bf76ff-934e-4835-aa9f-0b94cf77a461",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1118d21c-2c22-4404-87e4-0f2bb4b962d8",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "lamocold",
+        "meta": "@Lamocold",
+        "alias": "Lamocold",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "40c88c23-187b-4138-aaa3-7c5b0b899e0b",
+  "name": "LAMOCOLD",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "LAMOCOLD-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d56af27c-ac6d-49b9-a078-3453d1c92c44",
+          "name": "Lamocold",
+          "required": false,
+          "dataType": "@Lamocold",
+          "value": "$Lamocold",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

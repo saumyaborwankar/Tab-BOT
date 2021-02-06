@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ddca8bdf-3a05-424a-810d-f72dc3cd540f",
+    "data": [
+      {
+        "text": "Uses of ",
+        "userDefined": false
+      },
+      {
+        "text": "DOMSTAL",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b4fea9d-fde8-46f9-a7e7-c779dfffbde6",
+    "data": [
+      {
+        "text": "Usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

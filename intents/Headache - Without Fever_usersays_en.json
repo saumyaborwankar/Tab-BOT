@@ -1,0 +1,52 @@
+[
+  {
+    "id": "21b33ed9-6a5a-40d0-936d-5c11d2f738ab",
+    "data": [
+      {
+        "text": "Headache",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      },
+      {
+        "text": " but not ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e48de84e-0774-4089-96a9-9eec044fc529",
+    "data": [
+      {
+        "text": "Headache",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      },
+      {
+        "text": " Without ",
+        "userDefined": false
+      },
+      {
+        "text": "Fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

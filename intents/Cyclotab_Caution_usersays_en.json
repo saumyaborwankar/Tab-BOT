@@ -1,0 +1,127 @@
+[
+  {
+    "id": "37f9c772-1226-4a4e-8400-3402947d8b8e",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      },
+      {
+        "text": " during ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d871cd67-630c-4d62-8a2e-59b913bfc442",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      },
+      {
+        "text": " while taking ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8606fde6-c530-4bea-a7b8-7f624d9078cc",
+    "data": [
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c37cd684-3fc1-49a2-8dbc-28f93b0938d6",
+    "data": [
+      {
+        "text": "care",
+        "meta": "@Care",
+        "alias": "Care",
+        "userDefined": true
+      },
+      {
+        "text": " during ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87836aae-b74d-425c-8fdd-27cd799c8db8",
+    "data": [
+      {
+        "text": "Care",
+        "meta": "@Care",
+        "alias": "Care",
+        "userDefined": true
+      },
+      {
+        "text": " while taking ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

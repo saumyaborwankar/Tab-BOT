@@ -1,0 +1,47 @@
+[
+  {
+    "id": "4ea4d4f8-3dae-4c80-917f-1bd85b477d1c",
+    "data": [
+      {
+        "text": "Chills",
+        "meta": "@ShiveringShakingChills",
+        "alias": "ShiveringShakingChills",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54979819-c834-48ac-92ea-5f333d85ccf2",
+    "data": [
+      {
+        "text": "Shaking",
+        "meta": "@ShiveringShakingChills",
+        "alias": "ShiveringShakingChills",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0c90787-b6c1-48da-90dd-ec7e638ad641",
+    "data": [
+      {
+        "text": "Shivering",
+        "meta": "@ShiveringShakingChills",
+        "alias": "ShiveringShakingChills",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

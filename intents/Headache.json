@@ -1,0 +1,94 @@
+{
+  "id": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "name": "Headache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Headache-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dcd11c9d-922a-4bee-b01b-03f0c485f206",
+          "name": "Headache",
+          "required": false,
+          "dataType": "@Headache",
+          "value": "$Headache",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "696661ce-37b6-4a71-9ff2-190d0aaaf2a4",
+          "name": "HeadPain",
+          "required": false,
+          "dataType": "@HeadPain",
+          "value": "$HeadPain",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6683f5c1-873b-4d34-ae04-2212c9f8d18a",
+          "name": "Fever",
+          "required": false,
+          "dataType": "@Fever",
+          "value": "$Fever",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "66d4ef9a-0fa8-458e-b393-522f323ff379",
+          "name": "Vomiting",
+          "required": false,
+          "dataType": "@Vomiting",
+          "value": "$Vomiting",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

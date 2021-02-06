@@ -1,0 +1,136 @@
+[
+  {
+    "id": "190bc4e2-f9ae-41b4-b862-84d588858142",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b0e9043-c4a0-44e6-9fc1-930d38cae150",
+    "data": [
+      {
+        "text": "any warnings while consuming it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a45711cf-77c8-4909-8a6b-cda91860370e",
+    "data": [
+      {
+        "text": "warnings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c7f1e9f-cfda-45fe-95d3-4aa3eca644a7",
+    "data": [
+      {
+        "text": "what about its precautions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a10d75d0-cddb-405b-8519-e9fa849604a3",
+    "data": [
+      {
+        "text": "what about its ",
+        "userDefined": false
+      },
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72e0d52f-c447-46e1-8405-cad095ab9223",
+    "data": [
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdef708d-6407-459f-b8b2-7e2f25e57d5b",
+    "data": [
+      {
+        "text": "Tell me about it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " and precautions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18144179-8b35-4ed8-ac95-18f4eb60472e",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " and precautions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

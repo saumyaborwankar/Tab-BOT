@@ -1,0 +1,54 @@
+{
+  "id": "452021fc-5db7-4efc-93f5-0df9f2db0a86",
+  "parentId": "30ed1f86-9dca-4e02-8cfb-fe9c1d0c8390",
+  "rootParentId": "30ed1f86-9dca-4e02-8cfb-fe9c1d0c8390",
+  "name": "WrongMedOrd - custom",
+  "auto": true,
+  "contexts": [
+    "WrongMedOrd-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WrongMedOrd.WrongMedOrd-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e04556ea-4473-43fa-bd7c-90e06a7b026f",
+          "name": "email",
+          "required": false,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We will contact you soon."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

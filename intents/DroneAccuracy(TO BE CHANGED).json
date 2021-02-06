@@ -1,0 +1,50 @@
+{
+  "id": "655a2087-f620-4e8a-a22e-7e9d4770f275",
+  "name": "DroneAccuracy(TO BE CHANGED)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "96923655-3e76-4ea7-8d38-852b795eed4d",
+          "name": "DroneAccuracy",
+          "required": false,
+          "dataType": "@DroneAccuracy",
+          "value": "$DroneAccuracy",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The drone will deliver to the exact location as it will follow the set points upto your location."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

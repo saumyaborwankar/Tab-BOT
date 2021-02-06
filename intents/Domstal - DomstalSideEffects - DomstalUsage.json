@@ -1,0 +1,51 @@
+{
+  "id": "c914a150-b423-4e2a-af0a-09a1b2e1863e",
+  "parentId": "728d3de6-b112-4685-a619-9dc83c253db5",
+  "rootParentId": "438872bb-cb3f-40c2-8d6f-a36af558d4c9",
+  "name": "Domstal - DomstalSideEffects - DomstalUsage",
+  "auto": true,
+  "contexts": [
+    "Domstal-DomstalSideEffects-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Domstal.Domstal-custom.Domstal-DomstalSideEffects-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "44980dd2-afe1-418f-a58c-61457fde7683",
+          "name": "DOMSTAL",
+          "required": false,
+          "dataType": "@DOMSTAL",
+          "value": "$DOMSTAL",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

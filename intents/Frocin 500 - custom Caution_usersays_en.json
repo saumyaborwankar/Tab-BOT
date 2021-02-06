@@ -1,0 +1,99 @@
+[
+  {
+    "id": "c6713805-8d12-43d9-8a12-977e34147755",
+    "data": [
+      {
+        "text": "caution while taking ",
+        "userDefined": false
+      },
+      {
+        "text": "frocin 500",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa862705-b3ce-4d25-bc29-15db14247f74",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Frocin",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89939ba6-56a9-4258-bd57-2be1b62eac62",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "frocin",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b138137-3b96-4e7d-9d63-0ca5c68c1431",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c277ee8-f9eb-4fc5-a957-7eca7caade2d",
+    "data": [
+      {
+        "text": "Caution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

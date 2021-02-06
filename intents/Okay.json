@@ -1,0 +1,56 @@
+{
+  "id": "44c8e15b-6f46-4771-8213-49df4868f3eb",
+  "name": "Okay",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Fine"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "messages": [
+              {
+                "platform": "facebook",
+                "replies": [
+                  "Quick reply 1",
+                  "Quick reply 2",
+                  "Quick reply 3"
+                ],
+                "title": "Quick Reply Title",
+                "type": 2.0
+              }
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "5de9259b-81b3-48ff-aeba-69fa24476bf2",
+  "parentId": "1e74d8bf-5056-4c87-89b5-d3fa586ef912",
+  "rootParentId": "1e74d8bf-5056-4c87-89b5-d3fa586ef912",
+  "name": "Metrogyl - MetrogylSideEffects",
+  "auto": true,
+  "contexts": [
+    "Metrogyl-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Metrogyl.Metrogyl-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ab865920-1b92-4035-b9db-14ba85f5f5ac",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "adc9393e-0884-4110-a41d-c33918253250",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "64b69946-961c-4dec-ba1e-4537db9a5590",
+    "data": [
+      {
+        "text": "I am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "Weakness",
+        "meta": "@Weakness",
+        "alias": "Weakness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e30084c1-c2f3-4127-a7d4-a2c185121b0b",
+    "data": [
+      {
+        "text": "I am having ",
+        "userDefined": false
+      },
+      {
+        "text": "weakness",
+        "meta": "@Weakness",
+        "alias": "Weakness",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

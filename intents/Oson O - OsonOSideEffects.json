@@ -1,0 +1,65 @@
+{
+  "id": "c5dd2c47-0be4-417d-a9e8-d678b6bb0911",
+  "parentId": "40dbb73d-1e6e-4a63-b280-aa88979c56a1",
+  "rootParentId": "40dbb73d-1e6e-4a63-b280-aa88979c56a1",
+  "name": "Oson O - OsonOSideEffects",
+  "auto": true,
+  "contexts": [
+    "OsonO-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "OsonO.OsonO-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5935500f-54da-4a54-a153-2bcdf14b3c51",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9573110d-c04f-43d6-b72d-b0073ded59a4",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

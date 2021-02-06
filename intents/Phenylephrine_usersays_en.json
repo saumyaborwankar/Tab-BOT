@@ -1,0 +1,67 @@
+[
+  {
+    "id": "e89a2082-7a4b-449f-96c4-c0c398ad753d",
+    "data": [
+      {
+        "text": "for what  ",
+        "userDefined": false
+      },
+      {
+        "text": "Phenylephrine",
+        "meta": "@Phenylephrine",
+        "alias": "Phenylephrine",
+        "userDefined": false
+      },
+      {
+        "text": " is used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa7f0a1b-201f-457b-996a-ebdc5fbd298c",
+    "data": [
+      {
+        "text": "Where ",
+        "userDefined": false
+      },
+      {
+        "text": "Phenylephrine",
+        "meta": "@Phenylephrine",
+        "alias": "Phenylephrine",
+        "userDefined": false
+      },
+      {
+        "text": " is used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d89e582-1e16-4df9-b81a-9ebc78f5fa77",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Phenylephrine",
+        "meta": "@Phenylephrine",
+        "alias": "Phenylephrine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

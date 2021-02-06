@@ -1,0 +1,85 @@
+[
+  {
+    "id": "700042c0-58e6-46c4-9256-4569ba1492d7",
+    "data": [
+      {
+        "text": "missed",
+        "meta": "@Missed",
+        "alias": "Missed",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Dose",
+        "meta": "@Dose",
+        "alias": "Dose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e79185d4-7425-4aed-a141-e0a2838e2093",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@Missed",
+        "alias": "Missed",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "Dose",
+        "meta": "@Dose",
+        "alias": "Dose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7baf4b8-7151-4f16-8ba8-d4e8a3425988",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "missed",
+        "meta": "@Missed",
+        "alias": "Missed",
+        "userDefined": true
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "Dose",
+        "meta": "@Dose",
+        "alias": "Dose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

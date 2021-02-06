@@ -1,0 +1,55 @@
+{
+  "id": "ffe40164-249b-4b50-92a4-fd903ccc5c22",
+  "name": "Cyclotab",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Cyclotab-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "64ed5815-669f-49f5-9f9f-2096a98edba9",
+          "name": "Cyclotab",
+          "required": false,
+          "dataType": "@Cyclotab",
+          "value": "$Cyclotab",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cyclotab Tablet is a part of the drug group known as dopamine antagonists. It can be used for treating the slow passage of food in your gastrointestinal tract, generally associated with gastritis or diabetes. For people suffering from this condition, Cyclotab Tablet can treat the symptoms of vomiting, nausea, bloating and feeling full. Apart from that, it can also prevent vomiting and nausea that is associated with Parkinson’s disease."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

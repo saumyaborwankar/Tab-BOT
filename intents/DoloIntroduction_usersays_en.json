@@ -1,0 +1,89 @@
+[
+  {
+    "id": "8c852e9c-335a-4a40-9c08-338909936269",
+    "data": [
+      {
+        "text": "dolo-650",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27c0c4aa-2fdd-4c0d-886c-dbd9aa1d7b48",
+    "data": [
+      {
+        "text": "dolo",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf4c9848-3767-4845-bc20-686943d73d9c",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "Dolo 650",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd40cc4a-7a9c-4d21-a4f9-f75effa96c33",
+    "data": [
+      {
+        "text": "Dolo ",
+        "userDefined": false
+      },
+      {
+        "text": "650",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8eaca865-acc4-42cf-a4f4-4c9586ceeaa8",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Dolo",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

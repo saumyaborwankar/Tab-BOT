@@ -1,0 +1,64 @@
+{
+  "id": "7c5f233f-a529-493d-bfc1-366c6df75613",
+  "name": "MissedDose",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "18ddfc51-7282-4878-b999-a7d6d9ef1ad9",
+          "name": "Dose",
+          "required": false,
+          "dataType": "@Dose",
+          "value": "$Dose",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "142d2576-0b3c-4db3-a4ea-5e016dbbf243",
+          "name": "Missed",
+          "required": false,
+          "dataType": "@Missed",
+          "value": "$Missed",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Take a missed dose as soon as you think about it. - If it is close to the time for your next dose, skip the missed dose and go back to your normal time. Do not take 2 doses at the same time or extra doses. \nAlso inform your doctor."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

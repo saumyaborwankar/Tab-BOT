@@ -1,0 +1,66 @@
+{
+  "id": "88321829-050c-4a14-bf28-b1deef5c91dc",
+  "name": "IfeelLikeIamHavingFever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "IfeelLikeIamHavingFever-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "443a174f-5415-4380-b01b-a52508caaea5",
+          "name": "Fever",
+          "required": false,
+          "dataType": "@Fever",
+          "value": "$Fever",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "31620564-18f2-4c14-bbf2-7ff0ada64a82",
+          "name": "Temperature",
+          "required": false,
+          "dataType": "@Temperature",
+          "value": "$Temperature",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

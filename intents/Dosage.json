@@ -1,0 +1,50 @@
+{
+  "id": "d93d8966-88cb-4910-80a9-19537ad87956",
+  "name": "Dosage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cc08e07a-98d5-4f74-83e2-ad51b050a1be",
+          "name": "Dose",
+          "required": false,
+          "dataType": "@Dose",
+          "value": "$Dose",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I cannot suggest the dosage, please consult your doctor for proper information on dosage as it\u0027s very risky to take the Dose without Doctor\u0027s consent"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

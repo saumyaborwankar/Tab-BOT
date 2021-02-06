@@ -1,0 +1,51 @@
+{
+  "id": "73316816-2b7a-4af2-b2f6-b9d2258cdb65",
+  "parentId": "9d75a893-267d-4331-8618-212effa746d4",
+  "rootParentId": "9d75a893-267d-4331-8618-212effa746d4",
+  "name": "Fever less10",
+  "auto": true,
+  "contexts": [
+    "SuggestionFever-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SuggestionFever.SuggestionFever-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "899c11ac-b246-4ee0-abf9-d3e7c286a643",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

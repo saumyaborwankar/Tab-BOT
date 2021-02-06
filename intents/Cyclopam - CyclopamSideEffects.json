@@ -1,0 +1,51 @@
+{
+  "id": "eb2a3a93-53cb-4c0b-8a9f-5f964b5275ed",
+  "parentId": "735bb872-bf6c-4177-88c1-6b98ef7541c4",
+  "rootParentId": "735bb872-bf6c-4177-88c1-6b98ef7541c4",
+  "name": "Cyclopam - CyclopamSideEffects",
+  "auto": true,
+  "contexts": [
+    "Cyclopam-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Cyclopam.Cyclopam-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "55e12b9b-f312-4fed-9325-27d01485fab2",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

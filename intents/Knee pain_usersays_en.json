@@ -1,0 +1,74 @@
+[
+  {
+    "id": "110d9312-54d9-4a06-a600-d524b9923018",
+    "data": [
+      {
+        "text": "I am having ",
+        "userDefined": false
+      },
+      {
+        "text": "knee pain",
+        "meta": "@KneePain",
+        "alias": "KneePain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7fcd481-caed-401e-98ec-8ab1fa5cd608",
+    "data": [
+      {
+        "text": "I feel ",
+        "userDefined": false
+      },
+      {
+        "text": "knee pain",
+        "meta": "@KneePain",
+        "alias": "KneePain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acca0d8e-ccee-4d87-902a-7faf68fefabc",
+    "data": [
+      {
+        "text": "Knee pain",
+        "meta": "@KneePain",
+        "alias": "KneePain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "416c5e14-dc82-4671-9a62-575d248e9e6c",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Knee pain",
+        "meta": "@KneePain",
+        "alias": "KneePain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

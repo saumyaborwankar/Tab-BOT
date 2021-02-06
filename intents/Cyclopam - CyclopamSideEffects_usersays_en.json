@@ -1,0 +1,68 @@
+[
+  {
+    "id": "dab62dd3-3a83-4380-b1d7-5981073eaa68",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " and Precautions of tablet cyclopam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d78b8b66-e182-4f89-bc0a-5607aa1b1adc",
+    "data": [
+      {
+        "text": "precautions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4def72da-0628-4d1c-b5ab-b3eaba33be6d",
+    "data": [
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f0994f7-9043-4566-8c45-b73e2648eecc",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " and Precautions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

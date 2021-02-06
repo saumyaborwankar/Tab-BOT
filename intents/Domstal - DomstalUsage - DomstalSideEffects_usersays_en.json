@@ -1,0 +1,92 @@
+[
+  {
+    "id": "200ede19-dc16-425d-8655-e711fb648ae8",
+    "data": [
+      {
+        "text": "Precautions",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Domstal",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d7a5c26-53c5-4375-90bf-9887df35a711",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Precautions",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef798afe-bb4c-4e0d-a92a-db31baf64d02",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "DOMSTAL",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6850dcf8-5b1e-4b2b-88cb-1dbb2d47795f",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

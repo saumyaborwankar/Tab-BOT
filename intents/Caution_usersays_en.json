@@ -1,0 +1,17 @@
+[
+  {
+    "id": "6cb2447c-ef5e-4d5b-b2a3-f4a9dda8e17b",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@CAUCARSID",
+        "alias": "CAUCARSID",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "3ce102ff-b2a1-4255-b057-cd6da6867905",
+    "data": [
+      {
+        "text": "vakil.vishal@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

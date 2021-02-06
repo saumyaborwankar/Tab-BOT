@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7edc3797-3e15-414f-9cfa-9396b23ef8e5",
+    "data": [
+      {
+        "text": "Nipa Plus",
+        "meta": "@NipaPlus",
+        "alias": "NipaPlus",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99e407d3-45d1-4889-a94b-83c9cd2eade0",
+    "data": [
+      {
+        "text": "Where does ",
+        "userDefined": false
+      },
+      {
+        "text": "Nimesulide + Paracetamol",
+        "meta": "@Paracetamol_Nimesulide",
+        "alias": "Paracetamol_Nimesulide",
+        "userDefined": true
+      },
+      {
+        "text": " combination is used?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3c79e87-5b63-4f9d-9c58-479a5cfb186d",
+    "data": [
+      {
+        "text": "What does ",
+        "userDefined": false
+      },
+      {
+        "text": "Nipa Plus",
+        "meta": "@NipaPlus",
+        "alias": "NipaPlus",
+        "userDefined": true
+      },
+      {
+        "text": " tablets contains and what is it used for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "985960cd-8115-4284-8813-b8f906f25cdb",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Nipa Plus",
+        "meta": "@NipaPlus",
+        "alias": "NipaPlus",
+        "userDefined": true
+      },
+      {
+        "text": " tablets and what is it used for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

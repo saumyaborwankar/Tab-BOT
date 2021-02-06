@@ -1,0 +1,32 @@
+[
+  {
+    "id": "da1a2479-301c-4491-a200-532c4d214d42",
+    "data": [
+      {
+        "text": "frocin",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c54b9b3-533e-49f5-a41b-be348a55c91e",
+    "data": [
+      {
+        "text": "Frocin 500",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

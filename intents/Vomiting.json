@@ -1,0 +1,66 @@
+{
+  "id": "56b3fc6a-0847-4aa4-898a-b4c6931b9923",
+  "name": "Vomiting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Vomiting-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8b004e8b-0aee-4463-bcfd-74a7adecb28c",
+          "name": "Vomiting",
+          "required": false,
+          "dataType": "@Vomiting",
+          "value": "$Vomiting",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "13dd4ec9-e86a-4e96-a702-fd126e228c8c",
+          "name": "Stomach",
+          "required": false,
+          "dataType": "@Stomach",
+          "value": "$Stomach",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

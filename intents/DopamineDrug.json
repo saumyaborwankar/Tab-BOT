@@ -1,0 +1,50 @@
+{
+  "id": "21ce48d6-29a9-48b3-9eb0-2aeae778e1dc",
+  "name": "DopamineDrug",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "39fdd8b7-2902-4699-ba82-049b0372596b",
+          "name": "DopamineDrug",
+          "required": false,
+          "dataType": "@DopamineDrug",
+          "value": "$DopamineDrug",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dopamine (Organic Compound) is used to treat certain conditions that occur when you are in shock, which may be caused by heart attack, trauma, surgery, heart failure, kidney failure, and other serious medical conditions. Dopamine may also be used for purposes not listed in this medication guide."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

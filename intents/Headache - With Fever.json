@@ -1,0 +1,84 @@
+{
+  "id": "2db841c8-464d-4e81-8a70-6e2057417d8a",
+  "parentId": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "rootParentId": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "name": "Headache - With Fever",
+  "auto": true,
+  "contexts": [
+    "Headache-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Headache.Headache-custom",
+      "affectedContexts": [
+        {
+          "name": "Headache-WithFever-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "74119829-d0f8-468f-adca-4d7ea78395ba",
+          "name": "Headache",
+          "required": false,
+          "dataType": "@Headache",
+          "value": "$Headache",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1ae5626f-8742-47a5-92c8-ba67148e3d31",
+          "name": "Fever",
+          "required": false,
+          "dataType": "@Fever",
+          "value": "$Fever",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0baf7ecc-5239-49a0-8a58-73018663e16c",
+          "name": "Pain",
+          "required": false,
+          "dataType": "@Pain",
+          "value": "$Pain",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

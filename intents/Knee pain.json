@@ -1,0 +1,50 @@
+{
+  "id": "c065da5d-9352-48cf-8efe-e0ed9f30c068",
+  "name": "Knee pain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b325824b-15e9-45d6-826a-58b95f9cbfdf",
+          "name": "KneePain",
+          "required": false,
+          "dataType": "@KneePain",
+          "value": "$KneePain",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Rest, ice, compression, and elevation (RICE) is good for knee pain caused by a minor injury or an arthritis flare. Give your knee some rest, apply ice to reduce swelling, wear a compressive bandage, and keep your knee elevated."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

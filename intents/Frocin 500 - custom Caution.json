@@ -1,0 +1,82 @@
+{
+  "id": "f0c1409d-4735-46bd-a019-4df3795ee11f",
+  "parentId": "8b267e36-f307-495e-ab61-7f8b00ac753d",
+  "rootParentId": "8b267e36-f307-495e-ab61-7f8b00ac753d",
+  "name": "Frocin 500 - custom Caution",
+  "auto": true,
+  "contexts": [
+    "Frocin500-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Frocin500.Frocin500-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ecca98fe-9d3f-4790-9820-e2f4a281c9aa",
+          "name": "Frocin",
+          "required": false,
+          "dataType": "@Frocin",
+          "value": "$Frocin",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "614ef8f2-b551-4d6f-ae81-f503b87bd0d9",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "09d4ea1c-d910-4f86-acf3-9cc6a6c83d7c",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Taking more than daily dose of Paracetamol may cause serious liver damage or allergic reactions (e.g. swelling of the face, mouth and throat, difficulty in breathing, itching or rash."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

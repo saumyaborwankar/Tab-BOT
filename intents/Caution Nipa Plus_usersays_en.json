@@ -1,0 +1,96 @@
+[
+  {
+    "id": "04b94efb-bbce-47ce-8829-19a41779607e",
+    "data": [
+      {
+        "text": "care",
+        "meta": "@Care",
+        "alias": "Care",
+        "userDefined": true
+      },
+      {
+        "text": " While taking Nipa Plus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26fb8163-e2fd-4f1d-8e8b-01937a21364f",
+    "data": [
+      {
+        "text": "side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nipa Plus",
+        "meta": "@NipaPlus",
+        "alias": "NipaPlus",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b50a300-a9e6-4302-adc4-6b356acd1d52",
+    "data": [
+      {
+        "text": "caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Nipa Plus",
+        "meta": "@NipaPlus",
+        "alias": "NipaPlus",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8522b9b9-1c30-433d-a642-9fdf7efbc4a0",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": true
+      },
+      {
+        "text": " While taking ",
+        "userDefined": false
+      },
+      {
+        "text": "Nipa Plus",
+        "meta": "@NipaPlus",
+        "alias": "NipaPlus",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

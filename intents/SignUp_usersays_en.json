@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a0970c24-61d1-4707-ab79-7f985712ec77",
+    "data": [
+      {
+        "text": "Problem with SignUp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49bda280-1e3c-4373-a95f-09db4a86a26c",
+    "data": [
+      {
+        "text": "I cannot SignUp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "342ec63f-f43e-4f82-bc6c-7b207a7bae14",
+    "data": [
+      {
+        "text": "I cannot Sign Up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb5ed3c1-ecdd-42c0-b0ee-712fdee3a4f0",
+    "data": [
+      {
+        "text": "Unable to Sign Up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d332d400-ef99-4ead-82f2-53cd61271759",
+    "data": [
+      {
+        "text": "I am unable to SignUp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

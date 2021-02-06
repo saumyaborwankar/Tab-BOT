@@ -1,0 +1,82 @@
+[
+  {
+    "id": "f7b6acbd-47c3-4161-a3d2-117cb33dd704",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "metmol 650",
+        "meta": "@Metmol",
+        "alias": "Metmol",
+        "userDefined": false
+      },
+      {
+        "text": " tablets used for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31b16bce-eb6f-4443-be3e-eaf3089e64b3",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "metmol",
+        "meta": "@Metmol",
+        "alias": "Metmol",
+        "userDefined": false
+      },
+      {
+        "text": " tablets used for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf8489aa-8cd6-43c1-b563-5707df9dec7c",
+    "data": [
+      {
+        "text": "Metmol 650",
+        "meta": "@Metmol",
+        "alias": "Metmol",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd0a6131-9be7-46bc-b516-93000213a4ab",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Metmol 650",
+        "meta": "@Metmol",
+        "alias": "Metmol",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

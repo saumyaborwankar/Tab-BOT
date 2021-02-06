@@ -1,0 +1,57 @@
+{
+  "id": "8d729060-7984-4e60-a262-ac1becee764b",
+  "parentId": "f6de5cbe-1555-4de7-ab1d-7072b52d3d50",
+  "rootParentId": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "name": "Headache - With Fever - YD - VomitingLoosemotion",
+  "auto": true,
+  "contexts": [
+    "Headache-WithFever-YD-followup",
+    "Headache-WithFever-YD1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Headache.Headache-custom.Headache-WithFever-yes.Headache-WithFever-YD-custom",
+      "affectedContexts": [
+        {
+          "name": "Headache-WithFever-YD-VomitingLoosemotion-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6702526f-bfc6-4d04-8b58-952d737ce791",
+          "name": "Vomiting",
+          "required": false,
+          "dataType": "@Vomiting",
+          "value": "$Vomiting",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

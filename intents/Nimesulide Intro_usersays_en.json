@@ -1,0 +1,25 @@
+[
+  {
+    "id": "09ccf27d-adc5-419f-8386-8ace71aa014c",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Nimesulide",
+        "meta": "@Paracetamol_Nimesulide",
+        "alias": "Paracetamol_Nimesulide",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

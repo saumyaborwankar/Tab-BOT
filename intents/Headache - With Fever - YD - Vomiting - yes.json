@@ -1,0 +1,36 @@
+{
+  "id": "d378dada-a633-473a-97be-7c1fd4adb164",
+  "parentId": "4f485d32-4021-407a-8575-ef205a381a47",
+  "rootParentId": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "name": "Headache - With Fever - YD - Vomiting - yes",
+  "auto": true,
+  "contexts": [
+    "Headache-WithFever-YD-Vomiting-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Headache.Headache-custom.Headache-WithFever-yes.Headache-WithFever-YD-custom.Headache-WithFever-YD-Vomiting-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

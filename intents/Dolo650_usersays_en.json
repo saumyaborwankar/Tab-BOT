@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cd59b033-8968-42e5-a066-a1d51f7a93a7",
+    "data": [
+      {
+        "text": "How should I take ",
+        "userDefined": false
+      },
+      {
+        "text": "Dolo 650",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2899340-b10a-414f-8fde-86adc4b4291e",
+    "data": [
+      {
+        "text": "When should ",
+        "userDefined": false
+      },
+      {
+        "text": "Dolo 650",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": true
+      },
+      {
+        "text": " be taken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

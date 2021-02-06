@@ -1,0 +1,44 @@
+[
+  {
+    "id": "59b9522d-11b4-4df4-8cd6-4ded09767a39",
+    "data": [
+      {
+        "text": "Dose",
+        "meta": "@Dose",
+        "alias": "Dose",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3725785c-2dc1-418e-8bbe-62f0712a15fd",
+    "data": [
+      {
+        "text": "What would be the ",
+        "userDefined": false
+      },
+      {
+        "text": "Dosage",
+        "meta": "@Dose",
+        "alias": "Dose",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

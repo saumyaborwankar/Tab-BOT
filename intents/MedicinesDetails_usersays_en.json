@@ -1,0 +1,78 @@
+[
+  {
+    "id": "64d66e1b-b918-46c4-b111-d2ddcdfb9616",
+    "data": [
+      {
+        "text": "I need ",
+        "userDefined": false
+      },
+      {
+        "text": "Medicines",
+        "meta": "@MedicinesAvailable",
+        "alias": "MedicinesAvailable",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71d1fe05-1723-467a-b143-206abdb84cb6",
+    "data": [
+      {
+        "text": "Available Medicines",
+        "meta": "@MedicinesAvailable",
+        "alias": "MedicinesAvailable",
+        "userDefined": true
+      },
+      {
+        "text": " in your system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb02c23c-bdd8-4040-8589-2e4b6fcd5601",
+    "data": [
+      {
+        "text": "Medicines Available",
+        "meta": "@MedicinesAvailable",
+        "alias": "MedicinesAvailable",
+        "userDefined": true
+      },
+      {
+        "text": " through your system",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e61ada41-8944-462e-b996-6b549bb7a8f8",
+    "data": [
+      {
+        "text": "Which medicines are included",
+        "meta": "@MedicinesAvailable",
+        "alias": "MedicinesAvailable",
+        "userDefined": true
+      },
+      {
+        "text": " in your system?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

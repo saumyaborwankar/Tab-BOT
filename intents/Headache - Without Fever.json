@@ -1,0 +1,65 @@
+{
+  "id": "0d726a98-b9f8-4502-bcf5-4f3dcb3c0bd3",
+  "parentId": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "rootParentId": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "name": "Headache - Without Fever",
+  "auto": true,
+  "contexts": [
+    "Headache-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Headache.Headache-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6011066a-49e8-4ac9-a92c-b6fc6422c497",
+          "name": "Headache",
+          "required": false,
+          "dataType": "@Headache",
+          "value": "$Headache",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0a7f3f07-a359-4de1-8ef6-adf788e0ee6c",
+          "name": "Fever",
+          "required": false,
+          "dataType": "@Fever",
+          "value": "$Fever",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

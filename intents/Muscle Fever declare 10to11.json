@@ -1,0 +1,36 @@
+{
+  "id": "1896b4be-bf88-47fa-9824-b5471f455b57",
+  "parentId": "bbe98138-e140-4fa5-bc86-720ac260fff6",
+  "rootParentId": "2afb6447-9a92-4e4d-882d-193106c42ae6",
+  "name": "Muscle Fever declare 10to11",
+  "auto": true,
+  "contexts": [
+    "MusclePainJointPain-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MusclePainJointPain.MusclePainJointPain-yes.MusclePainJointPain-yes-yes.MusclePainJointPain-yes-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,52 @@
+{
+  "id": "c14893a2-731b-41d6-9c39-e2624e8c7656",
+  "name": "Norflox",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Norflox-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1cd527a5-2a5c-4626-af50-3188185cbfe0",
+          "name": "Norfloxacin",
+          "required": false,
+          "dataType": "@Norfloxacin",
+          "value": "$Norfloxacin",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

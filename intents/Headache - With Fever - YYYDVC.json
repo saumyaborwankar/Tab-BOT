@@ -1,0 +1,36 @@
+{
+  "id": "ee748c9c-d7dd-4390-92e7-fe0ead409fce",
+  "parentId": "c56bbba5-d0f6-422d-b045-24c5ac7b902a",
+  "rootParentId": "2b470538-1fe2-42a1-aaf0-c4700e528374",
+  "name": "Headache - With Fever - YYYDVC",
+  "auto": true,
+  "contexts": [
+    "Headache-WithFever-YYDV-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Headache.Headache-yes.Headache-WithFever-yes.Headache-WithFever-YD-yes.Headache-WithFever-YYDV-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

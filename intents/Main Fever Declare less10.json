@@ -1,0 +1,51 @@
+{
+  "id": "82b1b096-14f8-4d6b-bb1f-cc6fd07dfd25",
+  "parentId": "1129f216-2156-4395-bd5e-c5d4218c0a03",
+  "rootParentId": "88321829-050c-4a14-bf28-b1deef5c91dc",
+  "name": "Main Fever Declare less10",
+  "auto": true,
+  "contexts": [
+    "IfeelLikeIamHavingFever-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IfeelLikeIamHavingFever.IfeelLikeIamHavingFever-yes.IfeelLikeIamHavingFever-yes-yes.IfeelLikeIamHavingFever-yes-yes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c39d6302-30b2-4eca-9915-4ef511fab69f",
+          "name": "duration",
+          "required": false,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

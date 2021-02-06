@@ -1,0 +1,36 @@
+{
+  "id": "858044c3-4c17-428e-b215-3029ebc8c6bc",
+  "parentId": "1129f216-2156-4395-bd5e-c5d4218c0a03",
+  "rootParentId": "88321829-050c-4a14-bf28-b1deef5c91dc",
+  "name": "Main Fever declare 16 or more",
+  "auto": true,
+  "contexts": [
+    "IfeelLikeIamHavingFever-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IfeelLikeIamHavingFever.IfeelLikeIamHavingFever-yes.IfeelLikeIamHavingFever-yes-yes.IfeelLikeIamHavingFever-yes-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

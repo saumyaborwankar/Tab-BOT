@@ -1,0 +1,70 @@
+[
+  {
+    "id": "d85bef68-0d21-403b-ae27-46a8d1a9e033",
+    "data": [
+      {
+        "text": "Maximum dose that can be delivered at a time",
+        "meta": "@Dosagecapacity",
+        "alias": "Dosagecapacity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaf0a858-100e-4117-9881-30f7a37f3fda",
+    "data": [
+      {
+        "text": "Capacity of parcel",
+        "meta": "@Dosagecapacity",
+        "alias": "Dosagecapacity",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e19e98b0-f959-439f-b2d8-ff6e937e1849",
+    "data": [
+      {
+        "text": "How much Dose",
+        "meta": "@Dosagecapacity",
+        "alias": "Dosagecapacity",
+        "userDefined": true
+      },
+      {
+        "text": " can be delivered to the customer at a time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac50c953-66c4-4ae2-b4ad-702a8dcd395c",
+    "data": [
+      {
+        "text": "What amount of dosage",
+        "meta": "@Dosagecapacity",
+        "alias": "Dosagecapacity",
+        "userDefined": true
+      },
+      {
+        "text": " can be delivered to a customer at a time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

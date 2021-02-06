@@ -1,0 +1,28 @@
+[
+  {
+    "id": "05a5787a-7384-47ce-aad0-6650b4c2839d",
+    "data": [
+      {
+        "text": "Where it is paracetamol used for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "975b3d77-2848-45fa-998f-a2ab469a9dc5",
+    "data": [
+      {
+        "text": "What is Paracetamol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

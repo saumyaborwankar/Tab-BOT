@@ -1,0 +1,144 @@
+[
+  {
+    "id": "9296d7cc-262f-4799-9d66-78a15e564426",
+    "data": [
+      {
+        "text": "please tell me what is  ",
+        "userDefined": false
+      },
+      {
+        "text": "domstal",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      },
+      {
+        "text": " and what it is used for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1a5aec3-89ab-4f76-906c-e55d5ec6edd5",
+    "data": [
+      {
+        "text": "introduce me to ",
+        "userDefined": false
+      },
+      {
+        "text": "domstal",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": false
+      },
+      {
+        "text": " tablets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3aaddb8c-2afd-43ae-b3db-40e99da56ae3",
+    "data": [
+      {
+        "text": "what is Domstal ",
+        "userDefined": false
+      },
+      {
+        "text": "10 MG",
+        "meta": "@sys.unit-weight",
+        "alias": "unit-weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ddddce8-aea7-4dd0-b413-16a9433cf27b",
+    "data": [
+      {
+        "text": "Tell me about Tablet ",
+        "userDefined": false
+      },
+      {
+        "text": "Domstal",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": true
+      },
+      {
+        "text": " 10 MG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39efabd4-d8ef-40c9-a00e-fafd00cb465c",
+    "data": [
+      {
+        "text": "Tablet ",
+        "userDefined": false
+      },
+      {
+        "text": "Domstal",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10 MG",
+        "meta": "@sys.unit-weight",
+        "alias": "unit-weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5647a01-6cfa-4b6d-a6c8-6fe40d98d746",
+    "data": [
+      {
+        "text": "Domstal",
+        "meta": "@DOMSTAL",
+        "alias": "DOMSTAL",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10 MG",
+        "meta": "@sys.unit-weight",
+        "alias": "unit-weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

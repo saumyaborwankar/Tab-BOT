@@ -1,0 +1,102 @@
+[
+  {
+    "id": "9a840c79-eb49-4edb-a886-30ac7710c2df",
+    "data": [
+      {
+        "text": "Care",
+        "meta": "@Care",
+        "alias": "Care",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Metmol 650",
+        "meta": "@Metmol",
+        "alias": "Metmol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b99a03d8-084b-46a0-9d83-cd61ff4a996e",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Metmol 650",
+        "meta": "@Metmol",
+        "alias": "Metmol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bc83249-959d-4f04-8d54-cef2cfb1b234",
+    "data": [
+      {
+        "text": "Metmol",
+        "meta": "@Metmol",
+        "alias": "Metmol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97faad69-7c2c-4818-a4f6-be62aa24115a",
+    "data": [
+      {
+        "text": "Metmol 650",
+        "meta": "@Metmol",
+        "alias": "Metmol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

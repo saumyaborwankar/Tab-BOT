@@ -1,0 +1,66 @@
+[
+  {
+    "id": "a2234183-dd6e-4d1e-afba-fc3cf3044767",
+    "data": [
+      {
+        "text": "DOLO-650",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c4f811d-0209-4b53-a9d1-c65ee0a13a24",
+    "data": [
+      {
+        "text": "Dolo",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6979dc9-3619-4425-93dc-5e3d61677b80",
+    "data": [
+      {
+        "text": "Dolo",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c892bb67-8b3c-4a8c-b51f-653a45a2fd5a",
+    "data": [
+      {
+        "text": "Dolo 650",
+        "meta": "@Dolo650",
+        "alias": "Dolo650",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

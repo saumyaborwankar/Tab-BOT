@@ -1,0 +1,40 @@
+[
+  {
+    "id": "72499e62-1d00-4e10-b286-d8a5b7ae2bba",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Joint Pain",
+        "meta": "@JointPain",
+        "alias": "JointPain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "160214d0-ed30-475c-b6ca-b58f34afc7ad",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Muscle Pain",
+        "meta": "@MusclePain",
+        "alias": "MusclePain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

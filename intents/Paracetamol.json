@@ -1,0 +1,35 @@
+{
+  "id": "48e68e17-1074-451d-8670-f57df93041f9",
+  "name": "Paracetamol",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Paracetamol is an analgesic (pain killer) and an antipyretic (temperature reducer). It is used to treat pain (including headache, toothache, back and period pain) and cold or flu symptoms."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

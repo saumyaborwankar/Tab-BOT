@@ -1,0 +1,41 @@
+{
+  "id": "dc2c281a-e945-427f-af7f-ebec16f5430e",
+  "parentId": "88321829-050c-4a14-bf28-b1deef5c91dc",
+  "rootParentId": "88321829-050c-4a14-bf28-b1deef5c91dc",
+  "name": "IfeelLikeIamHavingFever - yes",
+  "auto": true,
+  "contexts": [
+    "IfeelLikeIamHavingFever-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IfeelLikeIamHavingFever.IfeelLikeIamHavingFever-yes",
+      "affectedContexts": [
+        {
+          "name": "IfeelLikeIamHavingFever-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

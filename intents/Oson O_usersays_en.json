@@ -1,0 +1,59 @@
+[
+  {
+    "id": "3eccbb24-6b6b-4762-8485-2014b78fc144",
+    "data": [
+      {
+        "text": "Oson-O",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65221ae7-61d1-4655-8871-bd854f67028b",
+    "data": [
+      {
+        "text": "tab Oson O",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f7c3355-5c67-48bd-8667-069bfd175197",
+    "data": [
+      {
+        "text": "Tablet Oson-O",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11059f5f-785b-4ca5-a1b3-54f5ff98eec9",
+    "data": [
+      {
+        "text": "Oson ",
+        "userDefined": false
+      },
+      {
+        "text": "O",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

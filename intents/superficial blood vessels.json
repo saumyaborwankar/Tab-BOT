@@ -1,0 +1,50 @@
+{
+  "id": "934b870d-8a27-4e93-b6be-fbc71c620345",
+  "name": "superficial blood vessels",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4fd4f3a9-6025-4dd8-8f77-515dd136eb77",
+          "name": "SuperficialBloodVessels",
+          "required": false,
+          "dataType": "@SuperficialBloodVessels",
+          "value": "$SuperficialBloodVessels",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Superficial vein is a vein that is close to the surface of the body. This differs from deep veins that are far from the surface."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

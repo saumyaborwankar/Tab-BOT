@@ -1,0 +1,268 @@
+[
+  {
+    "id": "7e53358a-9872-470d-8731-11cfb27e866e",
+    "data": [
+      {
+        "text": "Give me prescription for ",
+        "userDefined": false
+      },
+      {
+        "text": "Diarrhea",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00ba7818-acd3-46b5-9dc6-ac692bd6779e",
+    "data": [
+      {
+        "text": "Provide me prescription for ",
+        "userDefined": false
+      },
+      {
+        "text": "Diarrhea",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b3d0db8-2845-43ac-8e92-5543cf04f753",
+    "data": [
+      {
+        "text": "Give me medicine for ",
+        "userDefined": false
+      },
+      {
+        "text": "Diarrhea",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0be0b8c1-0e8b-43e2-8ad6-63213eec7b23",
+    "data": [
+      {
+        "text": "suggest me medicine for ",
+        "userDefined": false
+      },
+      {
+        "text": "Diarrhea",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19ad4c2e-eb19-40dc-9942-d88690ec506a",
+    "data": [
+      {
+        "text": "How to cure ",
+        "userDefined": false
+      },
+      {
+        "text": "Diarrhea",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "408ee43f-302a-4131-a65d-b10d8d00a0ef",
+    "data": [
+      {
+        "text": "How to cure ",
+        "userDefined": false
+      },
+      {
+        "text": "Loose Motion",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fd73476-3481-4b90-8b62-0a8275aa31bc",
+    "data": [
+      {
+        "text": "I feel I ",
+        "userDefined": false
+      },
+      {
+        "text": "Loose Motion",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd79ab50-301f-40f5-81bb-5e22a2eb8403",
+    "data": [
+      {
+        "text": "Please help me I am having ",
+        "userDefined": false
+      },
+      {
+        "text": "Diarrhea",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9eca27ad-af5d-492e-a926-d1d31c7831c2",
+    "data": [
+      {
+        "text": "Please help me I am having ",
+        "userDefined": false
+      },
+      {
+        "text": "Loose Motion",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fb27da5-00e6-43e1-a48c-0a184f38eedf",
+    "data": [
+      {
+        "text": "Please tell me the cure for ",
+        "userDefined": false
+      },
+      {
+        "text": "Diarrhea",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e7a43f6-adf6-4511-b937-adf5d8ed56bb",
+    "data": [
+      {
+        "text": "I am suffering from ",
+        "userDefined": false
+      },
+      {
+        "text": "Loose Motion",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c35d6ba2-503f-4aa5-a777-0bb8795a706b",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Loose Motion",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67b9032d-0b63-40b0-b557-095681e7c8ae",
+    "data": [
+      {
+        "text": "I am suffering from ",
+        "userDefined": false
+      },
+      {
+        "text": "Diarrhea",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17a389ca-87e5-42a2-b3e0-23f45b775b72",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Diarrhea",
+        "meta": "@Diarrhea",
+        "alias": "Diarrhea",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

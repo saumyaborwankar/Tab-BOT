@@ -1,0 +1,31 @@
+[
+  {
+    "id": "b76a02f4-ae27-4a3e-8d8c-dea2f3e4be33",
+    "data": [
+      {
+        "text": "What care should be taken while taking ",
+        "userDefined": false
+      },
+      {
+        "text": "Dolo",
+        "meta": "@DOLO",
+        "alias": "DOLO",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "650",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "703918c1-c996-4d1f-a97e-e270e5f5b2f2",
+  "parentId": "88321829-050c-4a14-bf28-b1deef5c91dc",
+  "rootParentId": "88321829-050c-4a14-bf28-b1deef5c91dc",
+  "name": "IfeelLikeIamHavingFever - no",
+  "auto": true,
+  "contexts": [
+    "IfeelLikeIamHavingFever-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IfeelLikeIamHavingFever.IfeelLikeIamHavingFever-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay then you must consult your doctor as it may be something else"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

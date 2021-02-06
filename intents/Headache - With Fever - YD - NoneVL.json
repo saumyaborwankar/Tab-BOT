@@ -1,0 +1,55 @@
+{
+  "id": "1b98affc-f9b2-403c-b778-b38793a6ceba",
+  "parentId": "f6de5cbe-1555-4de7-ab1d-7072b52d3d50",
+  "rootParentId": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "name": "Headache - With Fever - YD - NoneVL",
+  "auto": true,
+  "contexts": [
+    "Headache-WithFever-YD-followup",
+    "Headache-WithFever-YD1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Headache.Headache-custom.Headache-WithFever-yes.Headache-WithFever-YD-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f1e1172c-072f-4176-aea3-52808b2936c2",
+          "name": "Vomiting",
+          "required": false,
+          "dataType": "@Vomiting",
+          "value": "$Vomiting",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please consult your Doctor and try the following steps:\n1) Rest in a dark room\n2) Relax to Ease pain\n3) Massage away tension headaches\nAnd if you have such headaches frequently then immediately consult the doctor."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

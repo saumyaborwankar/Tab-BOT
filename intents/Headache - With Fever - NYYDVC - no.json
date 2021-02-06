@@ -1,0 +1,36 @@
+{
+  "id": "bd578a59-208c-4e16-a369-4966b624440d",
+  "parentId": "faa641a2-2d73-4905-a246-a561f9f3dd59",
+  "rootParentId": "1c81cc1d-f7b9-4bd7-a59a-7dd0d3c7c68d",
+  "name": "Headache - With Fever - NYYDVC - no",
+  "auto": true,
+  "contexts": [
+    "Headache-WithFever-NYYDVC-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Headache.Headache-custom.Headache-WithFever-no.Headache-WithFever-ND-yes.Headache-WithFever-NYDV-yes.Headache-WithFever-NYYDVC-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

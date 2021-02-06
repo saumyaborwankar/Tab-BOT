@@ -1,0 +1,65 @@
+[
+  {
+    "id": "8eaa606e-c950-422d-be72-8affc56c9562",
+    "data": [
+      {
+        "text": "Precautions of ",
+        "userDefined": false
+      },
+      {
+        "text": "Norflox",
+        "meta": "@Norfloxacin",
+        "alias": "Norfloxacin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "176096f3-f171-4065-ac10-c58e21d098f8",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Norflox",
+        "meta": "@Norfloxacin",
+        "alias": "Norfloxacin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26db1792-0868-4fb4-b1ef-ced491e1456d",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " and Precautions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "id": "83224ed0-5a0c-4803-9a88-6561dd8c307a",
+  "parentId": "1129f216-2156-4395-bd5e-c5d4218c0a03",
+  "rootParentId": "88321829-050c-4a14-bf28-b1deef5c91dc",
+  "name": "Main Fever Declare 10to11",
+  "auto": true,
+  "contexts": [
+    "IfeelLikeIamHavingFever-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IfeelLikeIamHavingFever.IfeelLikeIamHavingFever-yes.IfeelLikeIamHavingFever-yes-yes.IfeelLikeIamHavingFever-yes-yes-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7e8f7642-1b9a-4f1f-822c-05ff954d3255",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

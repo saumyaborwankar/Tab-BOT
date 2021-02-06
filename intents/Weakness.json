@@ -1,0 +1,55 @@
+{
+  "id": "f121bfa9-5f6f-4c77-879a-6d84d0a6cf86",
+  "name": "Weakness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Wickness-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c59585cc-a719-4ef4-95a0-28313ade5d69",
+          "name": "Weakness",
+          "required": false,
+          "dataType": "@Weakness",
+          "value": "$Weakness",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes tell me more"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "ccc6e56d-4457-45a5-be73-5b11ea6b171f",
+    "data": [
+      {
+        "text": "vishal@rediffmail.net",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82c45364-e5e8-47ef-a64b-2801b6280724",
+    "data": [
+      {
+        "text": "my email ID is ",
+        "userDefined": false
+      },
+      {
+        "text": "vishal@yahoo.co.in",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffdf3f6e-c015-439b-b45a-55fbc170b5c0",
+    "data": [
+      {
+        "text": "vishal@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "838fcc95-428c-4ca6-afd4-e2e2f19e6b5b",
+    "data": [
+      {
+        "text": "My email address is ",
+        "userDefined": false
+      },
+      {
+        "text": "vishal@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

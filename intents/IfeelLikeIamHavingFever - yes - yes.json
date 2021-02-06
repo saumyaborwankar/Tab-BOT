@@ -1,0 +1,44 @@
+{
+  "id": "1129f216-2156-4395-bd5e-c5d4218c0a03",
+  "parentId": "dc2c281a-e945-427f-af7f-ebec16f5430e",
+  "rootParentId": "88321829-050c-4a14-bf28-b1deef5c91dc",
+  "name": "IfeelLikeIamHavingFever - yes - yes",
+  "auto": true,
+  "contexts": [
+    "IfeelLikeIamHavingFever-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IfeelLikeIamHavingFever.IfeelLikeIamHavingFever-yes.IfeelLikeIamHavingFever-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "IfeelLikeIamHavingFever-yes-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I would suggest you to take rest as you have symtoms of fever and consult your doctor for treatment."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "5ca1887e-e2c9-45d6-be6c-a0088ce74bcb",
+    "data": [
+      {
+        "text": "for what ",
+        "userDefined": false
+      },
+      {
+        "text": "dopamine drug",
+        "meta": "@DopamineDrug",
+        "alias": "DopamineDrug",
+        "userDefined": true
+      },
+      {
+        "text": " is used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fca8e3ff-f50b-460d-a3eb-e74b967cc228",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "dopamine drug",
+        "meta": "@DopamineDrug",
+        "alias": "DopamineDrug",
+        "userDefined": true
+      },
+      {
+        "text": " used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c52fa53-ce1b-47d7-a1cf-45fe4f1347c7",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "dopamine drug",
+        "meta": "@DopamineDrug",
+        "alias": "DopamineDrug",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

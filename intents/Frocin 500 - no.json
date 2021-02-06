@@ -1,0 +1,39 @@
+{
+  "id": "a819ad1e-7e71-473e-aef2-8c1ffb454258",
+  "parentId": "8b267e36-f307-495e-ab61-7f8b00ac753d",
+  "rootParentId": "8b267e36-f307-495e-ab61-7f8b00ac753d",
+  "name": "Frocin 500 - no",
+  "auto": true,
+  "contexts": [
+    "Frocin500-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Frocin500.Frocin500-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

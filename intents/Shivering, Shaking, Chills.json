@@ -1,0 +1,47 @@
+{
+  "id": "0d9027ac-5f5d-44e3-b2af-a3165016de8c",
+  "name": "Shivering, Shaking, Chills",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1b3f1221-57c9-4c43-8150-d87e7f6308aa",
+          "name": "ShiveringShakingChills",
+          "required": false,
+          "dataType": "@ShiveringShakingChills",
+          "value": "$ShiveringShakingChills",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

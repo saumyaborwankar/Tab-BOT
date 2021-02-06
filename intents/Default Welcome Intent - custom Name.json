@@ -1,0 +1,78 @@
+{
+  "id": "76a3a941-4ea3-4fe5-8d3a-388c18f0ffdd",
+  "parentId": "90b78943-f9f4-4874-9e19-2590110c82ea",
+  "rootParentId": "90b78943-f9f4-4874-9e19-2590110c82ea",
+  "name": "Default Welcome Intent - custom Name",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-customName-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c0573e70-09e2-40c3-95cb-de288d94b802",
+          "name": "hi",
+          "required": false,
+          "dataType": "@hi",
+          "value": "$hi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e78901f3-5ada-4373-a88b-5ab515238fd7",
+          "name": "NameList",
+          "required": true,
+          "dataType": "@NameList",
+          "value": "$NameList",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I didn\u0027t get that! Can you please rephrase?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks $NameList! may I know your Email address?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

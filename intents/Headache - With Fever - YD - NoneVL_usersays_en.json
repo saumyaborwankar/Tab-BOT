@@ -1,0 +1,61 @@
+[
+  {
+    "id": "56d481e8-c79e-4770-8144-6f404574e076",
+    "data": [
+      {
+        "text": "I Neither have ",
+        "userDefined": false
+      },
+      {
+        "text": "Vomiting",
+        "meta": "@Vomiting",
+        "alias": "Vomiting",
+        "userDefined": false
+      },
+      {
+        "text": " nor Loose Motion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4406bf4e-92a2-45d5-aa68-9cd02bb401d5",
+    "data": [
+      {
+        "text": "I don\u0027t have ",
+        "userDefined": false
+      },
+      {
+        "text": "Vomiting",
+        "meta": "@Vomiting",
+        "alias": "Vomiting",
+        "userDefined": false
+      },
+      {
+        "text": " and Loose motion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0502982f-aa24-416d-9d2c-e99971d0cd33",
+    "data": [
+      {
+        "text": "None of the Above symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

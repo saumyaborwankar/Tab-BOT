@@ -1,0 +1,21 @@
+[
+  {
+    "id": "66cf92cd-cedb-49f1-8d6b-bc6503439c44",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

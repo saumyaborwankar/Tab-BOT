@@ -1,0 +1,55 @@
+[
+  {
+    "id": "b0cfff49-51f0-4cb1-8aeb-1618c719d4c4",
+    "data": [
+      {
+        "text": "Frocin 500",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b776b9eb-189c-488b-aef6-e816ebf30db5",
+    "data": [
+      {
+        "text": "tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "frocin 500",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4be3a2a-190d-4ddd-9dee-cef82a91684f",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Frocin 500",
+        "meta": "@Frocin",
+        "alias": "Frocin",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

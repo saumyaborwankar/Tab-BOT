@@ -1,0 +1,92 @@
+{
+  "id": "a2eda82b-16bc-4077-9c27-af89a4c12f48",
+  "name": "Chlorpheniramine maleate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f3dd6a67-5321-4955-a271-eb1bc5ea05db",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "f5591e1a-d687-4e3a-a2a3-74c926c16fc7",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4d393f60-5b08-4869-8886-068cc4488a88",
+          "name": "Care",
+          "required": false,
+          "dataType": "@Care",
+          "value": "$Care",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4284a3af-428d-4dde-8562-e92fcea3c5e7",
+          "name": "ChlorpheniramineMaleate",
+          "required": false,
+          "dataType": "@ChlorpheniramineMaleate",
+          "value": "$ChlorpheniramineMaleate",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It is used to ease allergy signs.\n\nCommon side effects of Chlorpheniramine Maleate:\n\nFeeling lightheaded, sleepy, having blurred eyesight, or a change in thinking clearly. Avoid driving and doing other tasks or actions that call for you to be alert or have clear eyesight until you see how this drug affects you. Headache. Dry mouth. Good mouth care, sucking hard, sugar-free candy, or chewing sugar-free gum may help. See a dentist often."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

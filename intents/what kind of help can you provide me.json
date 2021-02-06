@@ -1,0 +1,64 @@
+{
+  "id": "fcac7f8e-dc01-4311-9de0-e81f034f08af",
+  "name": "what kind of help can you provide me",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "965212e0-d570-4ccc-abfd-2cf238e314f6",
+          "name": "ARE",
+          "required": false,
+          "dataType": "@ARE",
+          "value": "$ARE",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d2ab728b-78b5-4cc4-831c-c2a8b111c965",
+          "name": "You",
+          "required": false,
+          "dataType": "@You",
+          "value": "$You",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can suggest you medicines and some treatments.\nYou can ask me anything related to fever, cold and such diseases.\nYou can also seek help if you are facing any login signup problem.\nIf you have entered your correct credentials then I can help you connect with the support center."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

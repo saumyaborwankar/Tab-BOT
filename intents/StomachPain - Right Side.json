@@ -1,0 +1,41 @@
+{
+  "id": "34965dbd-f5c2-4df4-897a-4d4b03a76545",
+  "parentId": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "rootParentId": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "name": "StomachPain - Right Side",
+  "auto": true,
+  "contexts": [
+    "StomachPain-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "StomachPain.StomachPain-custom-2",
+      "affectedContexts": [
+        {
+          "name": "StomachPain-RightSide-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "54a7ecea-986c-4045-ab32-a55a4e08f7cc",
+  "name": "SideeffectsPhenylephrine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fab18bf8-1e9c-4d45-a62c-0eb55e47c598",
+          "name": "Phenylephrine",
+          "required": false,
+          "dataType": "@Phenylephrine",
+          "value": "$Phenylephrine",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8ca6a302-071d-4b88-b23b-7fa7efe3d3e2",
+          "name": "Care",
+          "required": false,
+          "dataType": "@Care",
+          "value": "$Care",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7e660f93-7afa-4e1d-9036-3f0d6e7c65a1",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "27c198c9-2dde-4af5-a4e5-268e72a9fab7",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you have an allergy to phenylephrine or any other part of this drug. \nIf you have a sulfite allergy, talk with your doctor.\n\nCommon Side effects:\n\nHigh blood pressure. \nNervous and excitable. \nDry mouth. \nGood mouth care, sucking hard, sugar-free candy, or chewing sugar-free gum may help. See a dentist often. Not able to sleep."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

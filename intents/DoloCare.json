@@ -1,0 +1,64 @@
+{
+  "id": "37ae72ac-255a-4488-92a4-920b56c917a5",
+  "name": "DoloCare",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "05a623ec-67ef-466e-a980-9c287a671fd7",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3e429f50-68a2-48cb-a041-025d8a4c6302",
+          "name": "DOLO",
+          "required": false,
+          "dataType": "@DOLO",
+          "value": "$DOLO",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Vomiting, difficulty sleeping and constipation may be seen as side effects in some patients. Inform your doctor immediately if any rash or allergic reaction is observed while taking this medicine. Pregnant and nursing women should use it under medical supervision only. It should be used with caution in patients with liver and kidney disease or alcohol abuse. It is not recommended in patients with severe or active liver disease."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

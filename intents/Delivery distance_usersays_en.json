@@ -1,0 +1,59 @@
+[
+  {
+    "id": "0b07bd18-34bc-46b5-9958-32a27f4c4af6",
+    "data": [
+      {
+        "text": "maximum ",
+        "userDefined": false
+      },
+      {
+        "text": "delivery distance",
+        "meta": "@Deliverydistance",
+        "alias": "Deliverydistance",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47f82854-e53b-4412-83ed-03cc23731fe6",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "maximum distance uto which this system can deliver a package",
+        "meta": "@Deliverydistance",
+        "alias": "Deliverydistance",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "488cba3d-405b-47a0-bfcb-61e326651d20",
+    "data": [
+      {
+        "text": "Upto what ",
+        "userDefined": false
+      },
+      {
+        "text": "maximum distance can this system deliver a package",
+        "meta": "@Deliverydistance",
+        "alias": "Deliverydistance",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

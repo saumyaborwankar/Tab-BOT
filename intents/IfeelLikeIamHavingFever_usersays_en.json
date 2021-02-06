@@ -1,0 +1,120 @@
+[
+  {
+    "id": "a4bdcd3a-d7bc-4402-8078-de0f7f62355b",
+    "data": [
+      {
+        "text": "Not sure about ",
+        "userDefined": false
+      },
+      {
+        "text": "Fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5a7d056-18f8-4411-9e73-3ebaa2c801c4",
+    "data": [
+      {
+        "text": "I am not sure if I am having ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b72a4f0a-a189-479a-bd75-5c7c0d9ff6ec",
+    "data": [
+      {
+        "text": "I have high Body ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@Temperature",
+        "alias": "Temperature",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a17576f7-b5e6-4971-aad7-3b4ab6f92c0d",
+    "data": [
+      {
+        "text": "my body ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "meta": "@Temperature",
+        "alias": "Temperature",
+        "userDefined": true
+      },
+      {
+        "text": " is high",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9636cc43-918f-4dcc-8dd3-be0e844bcdba",
+    "data": [
+      {
+        "text": "i  think I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18b65f3f-9db8-468e-9de5-337cabfde11f",
+    "data": [
+      {
+        "text": "I feel like I have ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

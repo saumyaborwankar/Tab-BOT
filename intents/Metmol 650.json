@@ -1,0 +1,52 @@
+{
+  "id": "48109676-3f5e-4cbf-b50e-10ce9b55d2d0",
+  "name": "Metmol 650",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Metmol650-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1e87446a-582a-4949-b6c4-8282e04a9ed3",
+          "name": "Metmol",
+          "required": false,
+          "dataType": "@Metmol",
+          "value": "$Metmol",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

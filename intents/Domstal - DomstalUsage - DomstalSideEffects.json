@@ -1,0 +1,79 @@
+{
+  "id": "67a09850-91f1-42f7-8c41-7d40bf698f28",
+  "parentId": "37d0cd31-f889-4fbe-8160-011317efba37",
+  "rootParentId": "438872bb-cb3f-40c2-8d6f-a36af558d4c9",
+  "name": "Domstal - DomstalUsage - DomstalSideEffects",
+  "auto": true,
+  "contexts": [
+    "Domstal-DomstalUsage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Domstal.Domstal-custom.Domstal-DomstalUsage-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e36f300c-cad2-485c-a8ea-4d7ce410920a",
+          "name": "DOMSTAL",
+          "required": false,
+          "dataType": "@DOMSTAL",
+          "value": "$DOMSTAL",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "751a256a-1c68-40ef-a7c9-09986b64b28f",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b2c255a3-bbeb-4c76-963d-c2b0dbaac16a",
+          "name": "Caution",
+          "required": false,
+          "dataType": "@Caution",
+          "value": "$Caution",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

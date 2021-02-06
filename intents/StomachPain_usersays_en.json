@@ -1,0 +1,283 @@
+[
+  {
+    "id": "bf570d66-a6ff-432a-9964-4908d052ea76",
+    "data": [
+      {
+        "text": "Middle ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39bda172-f1f5-435a-9366-e8a37548bb80",
+    "data": [
+      {
+        "text": "Pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      },
+      {
+        "text": " in middle of ",
+        "userDefined": false
+      },
+      {
+        "text": "Stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a55d9f1-0578-4fed-a25f-226a3386a259",
+    "data": [
+      {
+        "text": "Pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      },
+      {
+        "text": " in Left Side of ",
+        "userDefined": false
+      },
+      {
+        "text": "Stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50dc8452-7900-4c0c-9b3e-18cfc060cd8b",
+    "data": [
+      {
+        "text": "Pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      },
+      {
+        "text": " in Ride side of ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ea1fccb-b0bb-4163-95f6-9a3be02a1a6f",
+    "data": [
+      {
+        "text": "Pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      },
+      {
+        "text": " in Right Side ",
+        "userDefined": false
+      },
+      {
+        "text": "Stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c364fb9-7b14-4ffc-a661-e26bfbe0df5d",
+    "data": [
+      {
+        "text": "Pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ee90b99-c9a4-4bfb-8f0d-f4d33d9325c6",
+    "data": [
+      {
+        "text": "Pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Abdominal",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43e9caaa-ddd2-416a-abc1-bbfe2caeb74a",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "stomachpain",
+        "meta": "@StomachPain",
+        "alias": "StomachPain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6be76553-cc2c-4386-9017-90a6265d3e13",
+    "data": [
+      {
+        "text": "abdominal",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1a67c9f-75e7-41ec-b57f-a3559b08ad84",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "ache",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "203c8e23-8f32-4935-885c-955460ea76d7",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

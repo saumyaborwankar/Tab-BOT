@@ -1,0 +1,21 @@
+[
+  {
+    "id": "f0b717bf-bf85-423c-a4aa-3e04bb4ec05f",
+    "data": [
+      {
+        "text": "I am feeling ",
+        "userDefined": false
+      },
+      {
+        "text": "Stressed",
+        "meta": "@Stressed",
+        "alias": "Stressed",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

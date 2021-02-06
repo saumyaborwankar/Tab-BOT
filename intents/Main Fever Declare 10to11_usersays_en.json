@@ -1,0 +1,17 @@
+[
+  {
+    "id": "16264579-c198-4171-8e83-637edfedaf2a",
+    "data": [
+      {
+        "text": "10 to 11 years",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

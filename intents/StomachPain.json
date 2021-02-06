@@ -1,0 +1,80 @@
+{
+  "id": "8b8448ef-fa74-4069-afa6-202e5e9f8d27",
+  "name": "StomachPain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "StomachPain-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0a6f1856-25fd-4278-8a27-dbfdd70acc01",
+          "name": "Pain",
+          "required": false,
+          "dataType": "@Pain",
+          "value": "$Pain",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "92e0573a-8a08-4b29-9486-48edeed2bacc",
+          "name": "Stomach",
+          "required": false,
+          "dataType": "@Stomach",
+          "value": "$Stomach",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fae7145b-9f29-4f60-b353-a34bf8588611",
+          "name": "StomachPain",
+          "required": false,
+          "dataType": "@StomachPain",
+          "value": "$StomachPain",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

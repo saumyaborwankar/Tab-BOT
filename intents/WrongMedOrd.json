@@ -1,0 +1,55 @@
+{
+  "id": "30ed1f86-9dca-4e02-8cfb-fe9c1d0c8390",
+  "name": "WrongMedOrd",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "WrongMedOrd-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2a0c7d2d-8c95-4ee4-8324-5f6d2d9abb64",
+          "name": "You",
+          "required": false,
+          "dataType": "@You",
+          "value": "$You",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Please enter your email and we will contact you for that as soon as possible."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

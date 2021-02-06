@@ -1,0 +1,55 @@
+[
+  {
+    "id": "d53c8604-f2e1-4497-a1aa-305c5f6e6fa6",
+    "data": [
+      {
+        "text": "My email address is ",
+        "userDefined": false
+      },
+      {
+        "text": "test@example.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "769d03c0-5a33-4a22-becf-b3dfcb8065f1",
+    "data": [
+      {
+        "text": "test@example.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1036014b-407f-49f4-8473-9149e6fa81a9",
+    "data": [
+      {
+        "text": "My email address is ",
+        "userDefined": false
+      },
+      {
+        "text": "test@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

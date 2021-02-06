@@ -1,0 +1,36 @@
+[
+  {
+    "id": "61d8988f-a3b3-48dc-85cd-fd687f2fd6b2",
+    "data": [
+      {
+        "text": "What is ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4657b716-2c74-4fee-a29a-53bd9c9ff038",
+    "data": [
+      {
+        "text": "Cyclotab Tablet",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

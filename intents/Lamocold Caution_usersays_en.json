@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1b6638fe-1d5c-4a85-9545-fc3148bc11b8",
+    "data": [
+      {
+        "text": "Care",
+        "meta": "@Care",
+        "alias": "Care",
+        "userDefined": false
+      },
+      {
+        "text": " while taking ",
+        "userDefined": false
+      },
+      {
+        "text": "Lamocold",
+        "meta": "@Lamocold",
+        "alias": "Lamocold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d12b1510-a14b-48d6-9c90-0c7809ca88c7",
+    "data": [
+      {
+        "text": "Side Effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Lamocold",
+        "meta": "@Lamocold",
+        "alias": "Lamocold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10e2f1d1-52ea-4937-a576-3a94279ad9cf",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "lamocold",
+        "meta": "@Lamocold",
+        "alias": "Lamocold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

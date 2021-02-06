@@ -1,0 +1,64 @@
+{
+  "id": "a1e88c5a-62cc-4aed-a3ce-5045146080ef",
+  "name": "DoloIntroduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d323dd0e-701f-48ed-924b-37c549c27684",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1a39cc06-3238-4ecc-a43f-9cb620adca35",
+          "name": "Dolo650",
+          "required": false,
+          "dataType": "@Dolo650",
+          "value": "$Dolo650",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dolo 650 Tablet helps in relieving moderate pain and reducing fever. It effectively alleviates pain and helps to reduce fever. It is used in many conditions such as muscle pain, back pain, and toothache."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

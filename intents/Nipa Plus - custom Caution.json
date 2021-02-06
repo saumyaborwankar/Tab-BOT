@@ -1,0 +1,54 @@
+{
+  "id": "a0751d9d-966b-472f-bbe6-5f8e3c036b4a",
+  "parentId": "951615a9-8b41-416a-8678-132eea49addc",
+  "rootParentId": "951615a9-8b41-416a-8678-132eea49addc",
+  "name": "Nipa Plus - custom Caution",
+  "auto": true,
+  "contexts": [
+    "NipaPlus-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "NipaPlus.NipaPlus-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "342f12fc-f763-40ae-944a-6e7751c0f890",
+          "name": "NipaPlus",
+          "required": false,
+          "dataType": "@NipaPlus",
+          "value": "$NipaPlus",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Patients with heart and kidney diseases should avoid medicine.\nSweating profusely, Nausea, Gas, Blisters on skin are the side effects of Nipa Plus"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

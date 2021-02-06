@@ -1,0 +1,60 @@
+[
+  {
+    "id": "26da1de7-c804-4de0-8baa-57133b785d75",
+    "data": [
+      {
+        "text": "I received the wrong medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f531f9b3-91c4-4d6d-a83a-c2eff9a6fb71",
+    "data": [
+      {
+        "text": "You",
+        "meta": "@You",
+        "alias": "You",
+        "userDefined": false
+      },
+      {
+        "text": " delivered the wrong medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ec1582-698d-4919-b45e-c41bfff51bf1",
+    "data": [
+      {
+        "text": "I have accidentally ordered wrong medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cd1e498-e1af-4944-bfd4-032df1e08b76",
+    "data": [
+      {
+        "text": "I have ordered the wrong medicines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

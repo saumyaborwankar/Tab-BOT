@@ -1,0 +1,51 @@
+{
+  "id": "bd3b6ccb-83c7-4411-923c-a9dfefe7ce98",
+  "parentId": "b8d08a4b-0132-4bcf-92a8-358fc3905c5b",
+  "rootParentId": "b8d08a4b-0132-4bcf-92a8-358fc3905c5b",
+  "name": "Digene - DigeneSideEffects",
+  "auto": true,
+  "contexts": [
+    "Digene-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Digene.Digene-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "93d273a3-6926-45a6-be5a-ea9354feb45d",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

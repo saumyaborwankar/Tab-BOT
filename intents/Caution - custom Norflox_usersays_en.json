@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f926298d-9c0d-4e9f-b397-24f6199cb0e4",
+    "data": [
+      {
+        "text": "Side effects",
+        "meta": "@Sideeffects",
+        "alias": "Sideeffects",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Norflox",
+        "meta": "@Norfloxacin",
+        "alias": "Norfloxacin",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b05e5510-fbd5-47a3-8c83-91646243387c",
+    "data": [
+      {
+        "text": "Caution",
+        "meta": "@Caution",
+        "alias": "Caution",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Norflox",
+        "meta": "@Norfloxacin",
+        "alias": "Norfloxacin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "385d2c32-6272-4a1b-a21c-1666d7066995",
+    "data": [
+      {
+        "text": "Norflox",
+        "meta": "@Norfloxacin",
+        "alias": "Norfloxacin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

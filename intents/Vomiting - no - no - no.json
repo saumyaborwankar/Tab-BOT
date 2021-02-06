@@ -1,0 +1,36 @@
+{
+  "id": "b51870ab-7732-468b-a95d-174889f9dff7",
+  "parentId": "771a93a8-6606-4507-87a5-b3d31ca8f913",
+  "rootParentId": "56b3fc6a-0847-4aa4-898a-b4c6931b9923",
+  "name": "Vomiting - no - no - no",
+  "auto": true,
+  "contexts": [
+    "Vomiting-no-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Vomiting.Vomiting-no.Vomiting-no-no.Vomiting-no-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

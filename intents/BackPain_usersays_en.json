@@ -1,0 +1,127 @@
+[
+  {
+    "id": "f1b9ad03-c892-40a4-a7b1-6ef7d2254474",
+    "data": [
+      {
+        "text": "how to recover from back ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25cf43e2-e10c-4b99-a9b3-2d0a007c5d3f",
+    "data": [
+      {
+        "text": "Help me to relieve my back ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "269f45be-fc81-4d7c-9973-2dec995c1348",
+    "data": [
+      {
+        "text": "I have back problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0f8c15b-a877-440a-8f84-86d4726ad674",
+    "data": [
+      {
+        "text": "My back is paining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "002c32ee-33db-4f64-bf51-a2980780b332",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": true
+      },
+      {
+        "text": " in my back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82b2b84c-ea44-4780-8aca-11a60eea99a6",
+    "data": [
+      {
+        "text": "I have Back ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97570ba5-b534-4c72-b21d-b59da8127491",
+    "data": [
+      {
+        "text": "Back ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@Pain",
+        "alias": "Pain",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

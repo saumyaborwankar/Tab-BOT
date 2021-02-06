@@ -1,0 +1,98 @@
+[
+  {
+    "id": "17263f5d-6118-45a8-87c3-bdfe7c2bb106",
+    "data": [
+      {
+        "text": "Metrogyl ",
+        "userDefined": false
+      },
+      {
+        "text": "400 MG",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a45bdfa0-0dc0-44ab-9a48-ef05d363f324",
+    "data": [
+      {
+        "text": "Metrogyl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "331802c9-cdb7-433f-88ec-c9795cc411d3",
+    "data": [
+      {
+        "text": "Tablet Metrogyl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c687bcf2-190d-4056-a085-b506a3e51e5d",
+    "data": [
+      {
+        "text": "Tell me about Metrogyl tablet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7296c92-3647-4605-9d4e-57be0c91ed5d",
+    "data": [
+      {
+        "text": "Where metrogyl is used",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e785b72-ec58-4b2b-85f0-f9b174ea63f9",
+    "data": [
+      {
+        "text": "What is Metrogyl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c49beff3-c1e3-4fd3-9ce5-e33f1d1569cd",
+    "data": [
+      {
+        "text": "Tell me about Metrogyl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

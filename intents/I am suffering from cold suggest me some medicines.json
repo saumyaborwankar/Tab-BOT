@@ -1,0 +1,55 @@
+{
+  "id": "e8018a19-eef8-4f4c-ad91-db7d12c519a9",
+  "name": "I am suffering from cold suggest me some medicines",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "Iamsufferingfromcoldsuggestmesomemedicines-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1dcdd346-a194-45f9-bfe7-4a314a630f9f",
+          "name": "Cold",
+          "required": false,
+          "dataType": "@Cold",
+          "value": "$Cold",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Take Lamolate or Lamocold but please consult with your doctor and take the dose as adviced by him"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

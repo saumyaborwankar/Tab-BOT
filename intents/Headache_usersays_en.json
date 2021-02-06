@@ -1,0 +1,162 @@
+[
+  {
+    "id": "41e113b3-582d-4c77-b304-7f8ef80fdefe",
+    "data": [
+      {
+        "text": "Headache",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "Vomiting",
+        "meta": "@Vomiting",
+        "alias": "Vomiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6544fc71-de26-48ef-9733-1e946719f972",
+    "data": [
+      {
+        "text": "Headache",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      },
+      {
+        "text": " with Diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28480aea-810a-402b-ab1f-6ba498ffa600",
+    "data": [
+      {
+        "text": "Headache",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@Fever",
+        "alias": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3724173-9c0e-4411-a80f-c6c16dbdf4a8",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "headpain",
+        "meta": "@HeadPain",
+        "alias": "HeadPain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "629438ad-a708-4be8-9c36-8d90862e94ec",
+    "data": [
+      {
+        "text": "I am having ",
+        "userDefined": false
+      },
+      {
+        "text": "pain in head",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c76d28c7-724f-4a8e-bfbe-2d2bf333085e",
+    "data": [
+      {
+        "text": "headache",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "452b25b5-af43-4da1-9d9c-757c51306c73",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec6cb8b2-d788-4136-a9f4-59670b1c7427",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "head pain",
+        "meta": "@Headache",
+        "alias": "Headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

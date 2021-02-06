@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6e755532-a20b-4e97-8adc-d49afe163589",
+    "data": [
+      {
+        "text": "Care while taking ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb8f0c19-2c8c-42b0-8307-9dbbeb55afdd",
+    "data": [
+      {
+        "text": "care during ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a1d5a2a-dfc0-4bbb-a669-88e9d1e303ac",
+    "data": [
+      {
+        "text": "side effects of ",
+        "userDefined": false
+      },
+      {
+        "text": "cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8156cfa6-dc4e-4881-8893-e5e89ef9c890",
+    "data": [
+      {
+        "text": "Caution while taking ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50e2173d-a78b-4ead-9aba-61aa80a47b45",
+    "data": [
+      {
+        "text": "Caution during ",
+        "userDefined": false
+      },
+      {
+        "text": "Cyclotab",
+        "meta": "@Cyclotab",
+        "alias": "Cyclotab",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b06317a1-bb74-479f-98fc-78c5a5e67ef8",
+    "data": [
+      {
+        "text": "Caution",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

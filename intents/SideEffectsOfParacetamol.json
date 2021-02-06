@@ -1,0 +1,50 @@
+{
+  "id": "a61a3e7d-19c6-4657-a1fe-cf3f0c44831a",
+  "name": "SideEffectsOfParacetamol",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6c4b7bbb-ab1b-4888-9eaa-61debf653024",
+          "name": "Sideeffects",
+          "required": false,
+          "dataType": "@Sideeffects",
+          "value": "$Sideeffects",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Side effects with paracetamol are very rare. In the unlikely event symptoms are experienced as a result of taking paracetamol, it may cause a rash, blood disorders and/or liver/kidney damage when taken in high doses. Paracetamol taken at the recommended dose does not effect your ability to drive or operate heavy machinery. Paracetamol can be taken with food and moderate alcohol."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

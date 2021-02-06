@@ -1,0 +1,36 @@
+{
+  "id": "d3dbf987-b8b1-46de-aa21-70241a16dd27",
+  "parentId": "9d75a893-267d-4331-8618-212effa746d4",
+  "rootParentId": "9d75a893-267d-4331-8618-212effa746d4",
+  "name": "Fever 10to11",
+  "auto": true,
+  "contexts": [
+    "SuggestionFever-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SuggestionFever.SuggestionFever-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

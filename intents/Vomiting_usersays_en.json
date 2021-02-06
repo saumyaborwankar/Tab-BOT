@@ -1,0 +1,98 @@
+[
+  {
+    "id": "97063ee0-362d-40ff-982b-71b35552ace4",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "Stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Spewed Up",
+        "meta": "@Vomiting",
+        "alias": "Vomiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "541d9c9d-73ff-4b39-953a-abf6ec63a868",
+    "data": [
+      {
+        "text": "I did ",
+        "userDefined": false
+      },
+      {
+        "text": "Vomiting",
+        "meta": "@Vomiting",
+        "alias": "Vomiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a62822c-04ee-441e-b10a-a4a84cf36ae0",
+    "data": [
+      {
+        "text": "My ",
+        "userDefined": false
+      },
+      {
+        "text": "Stomach",
+        "meta": "@Stomach",
+        "alias": "Stomach",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Heaved",
+        "meta": "@Vomiting",
+        "alias": "Vomiting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee91ad55-75ad-423c-b37c-58917c194ad3",
+    "data": [
+      {
+        "text": "I have ",
+        "userDefined": false
+      },
+      {
+        "text": "Vomiting",
+        "meta": "@Vomiting",
+        "alias": "Vomiting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
